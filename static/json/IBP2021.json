@@ -1,0 +1,51 @@
+{
+    "1": {
+        "S. no": "1",
+        "Name of Project": "Student Database System",
+        "Mentor": "Prof. Bipul Saurabh and Prof. Jagmohan Tyagi",
+        "Desciption": "Develop a efficient platform to store students data to increase the accessibility ",
+        "Selected Students": "Vishal Soni\nSanskar Nalkande\nHitarth Gandhi\nShubham Deshpande"
+    },
+    "2": {
+        "S. no": "2",
+        "Name of Project": "Physical fitness tracking app",
+        "Mentor": "Prof. Madhu Vadali",
+        "Desciption": "Building a tracking app which can track individual student's exercise count, similar to STRAVA",
+        "Selected Students": "Gautam Vashishtha\nAbhiram Geddam"
+    },
+    "3": {
+        "S. no": "3",
+        "Name of Project": "Presentation slides on various campus features",
+        "Mentor": "Prof. Gaurav Srivastava",
+        "Desciption": "-",
+        "Selected Students": "Jaspreet Singh"
+    },
+    "4": {
+        "S. no": "4",
+        "Name of Project": "Video making  on different campus features/practices",
+        "Mentor": "Prof. Gaurav Srivastava",
+        "Desciption": "-",
+        "Selected Students": "Shubham Deshpande"
+    },
+    "5": {
+        "S. no": "5",
+        "Name of Project": "An app for fire load survey",
+        "Mentor": "Prof. Shanmuga Raman",
+        "Desciption": "This app will take photo/video of a room/lab and quantify the amount of combustible items from the room.",
+        "Selected Students": "V P Shivasankaran\nMuhammad Yusuf Hassan"
+    },
+    "6": {
+        "S. no": "6",
+        "Name of Project": "Webportal for Alumni Office",
+        "Mentor": "Prof. Jaison",
+        "Desciption": "-",
+        "Selected Students": "Mohamed Shamir\nKritika Kumawat\nGaurav Viramgami"
+    },
+    "7": {
+        "S. no": "7",
+        "Name of Project": "CDS Webportal maintenance",
+        "Mentor": "Prof. Abhay Gautam",
+        "Desciption": "Enhancing the webiste's interface to increase accessibility of data ",
+        "Selected Students": "Kalyan Reddy S\nDyavarashetty Peeyush\nMrityunjay saraf                              Chandan Maji"
+    }
+}
