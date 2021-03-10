@@ -565,8 +565,12 @@ function generatecardsIBP(data) {
         console.log(key)
         html+='<div class="col-md-6 col-12 card card-block"><div class="head"><p class="ptitle">';
         html+= data[key]["Name of Project"];
+
         html+='</p></div><div class="content"><p class="details">';
+        dta = data[key]["Desciption"];
+        if(dta!=='-'){
         html+=data[key]["Desciption"];
+        }
         html+='</p><p class="title">Faculty Mentor</p><p class="mentor">';
         html+=data[key]["Mentor"];
         html+='</p><p class="title">Selected Students</p><p class="students">';
