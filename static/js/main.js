@@ -497,7 +497,7 @@ var data = {
             "Skills Required": "CAD, CFD, FEA",
             "Incentives": "Rs 7k per student + Potential Internship",
             "Faculty Mentor": "Prof. Jaichander Swaminathan",
-            "Selected Students": "Rachna Panwar,Kaustuv Singh,Javaid Reshi "
+            "Selected Students": "Pooja Gupta, Aditya Natu and Paritosh Kavra "
         },
         "29": {
             "Sr.No.": "29",
@@ -506,7 +506,7 @@ var data = {
             "Skills Required": "-",
             "Incentives": "Rs 30K per student on completion of project",
             "Faculty Mentor": "Prof. Sameer Kulkarni",
-            "Selected Students": "No one was selected "
+            "Selected Students": "Abhiram Geddam, Aditya Pusalkar and Shashwat Jain "
         },
         "30": {
             "Sr.No.": "30",
@@ -515,7 +515,7 @@ var data = {
             "Skills Required": "",
             "Incentives": "Rs 30K per student on completion of project",
             "Faculty Mentor": "Prof. Sameer Kulkarni",
-            "Selected Students": "No one was selected "
+            "Selected Students": "Ayush Anand, Shreyshi Singh and Siddhi Pravin Surawar "
         },
         "31": {
             "Sr.No.": "31",
@@ -524,7 +524,7 @@ var data = {
             "Skills Required": "-",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Ragavan K",
-            "Selected Students": "No one was selected "
+            "Selected Students": "Rachna Panwar, Kaustuv Singh and Javaid Reshi "
         }
     }
 };
