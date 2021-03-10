@@ -8,7 +8,7 @@ var data = {
     "Aa":{
         "1": {
             "S. no": "1",
-            "Name of Project": "Student Database System",
+            "Name of Project": "Student Database System(Awarded as best Project)",
             "Mentor": "Prof. Bipul Saurabh and Prof. Jagmohan Tyagi",
             "Desciption": "Develop a efficient platform to store students data to increase the accessibility ",
             "Selected Students": "Vishal Soni,Sanskar Nalkande,Hitarth Gandhi,Shubham Deshpande"
