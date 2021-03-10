@@ -35,6 +35,16 @@ nav>a{
     margin-bottom: 50px;
 }
 
+.drop{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    width: 50%;
+}
+
 .main h6{
     display: inline-block;
 }
@@ -63,17 +73,7 @@ nav>a{
 }
 
 
-#csv-display::-webkit-scrollbar {
-    -webkit-appearance: none;
-    width: 4px;        
-}    
-#csv-display::-webkit-scrollbar-thumb {
-    border-radius: 3px;
-    background-color: lightgray;
-    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.75);        
-}
-
-.container h4{
+.cont>h4{
     border-bottom: 3px solid grey; 
     padding-bottom: 2px;
 }
@@ -83,9 +83,141 @@ nav>a{
     color: white;
 }
 
+.cont{
+    padding: 0;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#csv-display{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.row{
+    overflow-x: scroll;
+}
+
+.row::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 1px;        
+}    
+.row::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: rgba(211,211,211,.5);
+    /* background-color: lightgray; */
+    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.75);        
+}
+
+.card{
+    position: relative;
+    /* margin: 10px; */
+    border:none;
+    margin: 20px 0px;
+    cursor: pointer;
+    z-index: 20;
+    max-height: 600px;
+    font-size: 15px;
+    color: black; 
+    word-break: break-all;
+}
+
+.head{
+    width: 100%;
+    padding: 10px 10px 0px 10px;
+    border-radius: 5px 5px 0 0;
+    background-color: #f4f4f4;
+    border-bottom: 2px solid black;
+}
+
+.content{
+    width: 100%;
+    padding: 10px;
+    border-radius: 0 0 5px 5px;
+    background-color: #f4f4f4;
+    overflow-y: scroll;
+}
+
+.card:hover{
+    font-size: 17px;
+}
+.card:hover .content{
+    background-color: #ffd281;
+}
+.card:hover .head{
+    background-color: #1a92b7;
+    color: white;
+}
+
+.content::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 3px;        
+}    
+.content::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    background-color: rgba(211,211,211,.5);
+    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.25);        
+}
+
+.ptitle{
+    margin: 0;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.title{
+    display: inline-block;
+    font-weight: 500;
+    text-decoration: underline;
+    margin-bottom: 0;
+    padding-bottom: 3px;
+}
+
+.i{
+    border-radius: 5px;
+    background-color: #f4f4f4;
+    /* padding: 10px; */
+    margin: 20px 0px;
+}
+.ihead{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 2px 10px;
+    border-bottom: 2px solid gray;
+}
+
+.iabout{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+@media (max-width: 1200px){
+    .btn{
+        width: 70%;
+    }
+}
+
+@media(max-width:1000px){
+    .card{
+        max-height: 500px;
+    }
+}
+
 @media (max-width: 800px){
     .table{
         font-size: 15px;
+    }
+    .btn{
+        width: 90%;
     }
 }
 
@@ -95,17 +227,22 @@ nav>a{
         margin-top: 30px;
         margin-bottom: 20px;
     }
+    
     .btn{
         padding: 2px 2px;
+        width: 90%;
     }
     .logo{
         width: 80px;
     }
     .name{
-        font-size: 55px;
+        font-size: 50px;
     }
     .table{
         font-size: 14px;
+    }
+    .card{
+        max-height: 400px;
     }
   }
 @media (max-width: 500px) {
@@ -116,22 +253,40 @@ nav>a{
     }
     .drop{
         margin-top: 10px;
+        width: 70%;
     }
     .logo{
         width: 70px;
     }
     .name{
-        font-size: 50px;
+        font-size: 45px;
     }
-    .container h2{
+    .cont h2{
         font-size: 30px;
     }
-    .container h4{
+    .cont h4{
         font-size: 24px;
     }
     .table{
         font-size: 12px;
     }
+    .card{
+        font-size: 13px;
+    }
+    .ptitle{
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .ihead{
+        font-size: 22px
+    }
+    .iabout{
+        font-size: 15px;
+    }
+    .card:hover{
+        font-size: 15px;
+    }
+
   }
 @media (max-width: 400px) {
     nav>a{
@@ -152,18 +307,25 @@ nav>a{
     }
     .drop{
         margin-top: 10px;
+        width: 80%;
     }
     .logo{
         width: 50px;
     }
     .name{
-        font-size: 35px;
+        font-size: 33px;
     }
-    .container h2{
+    .cont h2{
         font-size: 22px;
     }
-    .container h4{
+    .cont h4{
         font-size: 18px;
+    }
+    .ihead{
+        font-size: 18px
+    }
+    .iabout{
+        font-size: 13px;
     }
   }
 @media (max-width: 300px) {
@@ -178,22 +340,35 @@ nav>a{
         font-size: 13px;
         font-weight: 400;
     }
+    .btn{
+        width: 100%;
+    }
     .dropdown-item{
         font-size: 12px;
     }
     .drop{
         margin-top: 10px;
+        width: 90%;
     }
     .logo{
         width: 40px;
     }
     .name{
-        font-size: 25px;
+        font-size: 23px;
     }
-    .container h2{
+    .cont h2{
         font-size: 18px;
     }
-    .container h4{
+    .cont h4{
         font-size: 15px;
+    }
+    .ihead{
+        font-size: 15px
+    }
+    .iabout{
+        font-size: 12px;
+    }
+    .card:hover{
+        font-size: 13px;
     }
   }

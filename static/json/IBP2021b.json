@@ -1,0 +1,51 @@
+{
+    "1": {
+        "Sr.No.": "1",
+        "Name of Project": "EWYL portal",
+        "Mentor": "Prof. Gopinathan Kalon",
+        "Desciption": "Developing a web portal for EWYL approvals from scratch",
+        "Selected Students": "Parimi Siva Krishna Sharma\nOnteddu Rama Krishna Reddy\nVedanta Krishna Bhutani"
+    },
+    "2": {
+        "Sr.No.": "2",
+        "Name of Project": "Booking system for the sports complex",
+        "Mentor": "Prof. Abhijit Mishra and Prof. Madhu Vadali",
+        "Desciption": "Developing a web portal and suitable algorithm for booking of facilities",
+        "Selected Students": "Reuben Shibu Devanesan\nRishabh Gupta\nAditya Shekhar Sinha"
+    },
+    "3": {
+        "Sr.No.": "3",
+        "Name of Project": "Presentation slides on various campus features",
+        "Mentor": "Prof. Gaurav Srivastava",
+        "Desciption": "-",
+        "Selected Students": "Ekata Lahiri"
+    },
+    "4": {
+        "Sr.No.": "4",
+        "Name of Project": "Central instrumentation facility website",
+        "Mentor": "Prof. Sameer Dalvi",
+        "Desciption": "1. Developing a website for central instrumentation facility.\n2. Making Videos for instruments in lab.\n3. Making Simple brouchre/handout for lab\n",
+        "Selected Students": "Akhilesh Chauhan\nDeep Samir Thakkar"
+    },
+    "5": {
+        "Sr.No.": "5",
+        "Name of Project": "Waste food management in mess",
+        "Mentor": "Prof. Arnab Saha",
+        "Desciption": "Designing a proper waste disposal system in mess for left food ",
+        "Selected Students": "Mohammed Aasim Shaikh\nPrateeti Rajjak"
+    },
+    "6": {
+        "Sr.No.": "6",
+        "Name of Project": "HSS course allotment ",
+        "Mentor": "Prof. Dilip Sundaram",
+        "Desciption": "Developing a course allocation tool for fair allotment to all instead of IRCTC model \n: Discover and plan a method and implement a fair algorithm for course allotment \n",
+        "Selected Students": "Rushil Shah\nChandrahas Pundru                                                           N. V. Karthikeya"
+    },
+    "7": {
+        "Sr.No.": "7",
+        "Name of Project": "App for organic farm",
+        "Mentor": "Prof. Sivapriya Kirubakaran",
+        "Desciption": "An app for placing orders and payments",
+        "Selected Students": "Abhavya Chandra\nShubham Deshpande"
+    }
+}

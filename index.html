@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="./static/style/main.css">
 
 </head>
@@ -36,16 +37,6 @@
                 <a id="Aa" class="dropdown-item A" href="#">Semester-I, 2020-2021</a>
             </div>
         </div>
-        <div class="dropdown3 drop">
-            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <h6>Events</h6>
-            </button>
-            <div class="dropdown-menu dropdown-menu-right dm1" aria-labelledby="dropdownMenuButton">
-                <a id="Ab" class="dropdown-item A" href="#">Semester-II, 2020-2021</a>
-                <a id="Aa" class="dropdown-item A" href="#">Semester-I, 2020-2021</a>
-            </div>
-        </div>
         <div class="dropdown2 drop">
             <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -53,74 +44,31 @@
             </button>
             <div class="dropdown-menu dropdown-menu-right dm2" aria-labelledby="dropdownMenuButton">
                 <a id="Bb" class="dropdown-item B" href="#">Semester-II, 2020-2021</a>
-                <a id="Ba" class="dropdown-item B" href="#">Semester-I, 2020-2021</a>
+                <a id="Ba" class="dropdown-item B" href="#">Semester-II, 2019-2020</a>
             </div>
         </div>
     </div>
 
-    <div class="container table-responsive">
+    <div class="cont">
         <h2></h2>
         <h4></h4>
-        <div class="table-responsive" id="csv-display">
-            <!-- <table class="table table-striped">
-                <thead class="thead-dark">
-                    <tr>
-                        <th>Sr.No.</th>
-                        <th>Name of the Project</th>
-                        <th>Mentor</th>
-                        <th>Description</th>
-                        <th>Selected Students</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>John</td>
-                        <td>Doe</td>
-                        <td>john@example.com</td>
-                        <td>john@example.com Lorem ta nobis quisquam fuga inventore cum. Sit.</td>
-                        <td>john@example.com</td>
-                    </tr>
-                    <tr>
-                        <td>Mary</td>
-                        <td>Moe</td>
-                        <td>mary@example.com</td>
-                        <td>mary@example.com</td>
-                        <td>mary@example.com</td>
-                    </tr>
-                    <tr>
-                        <td>July</td>
-                        <td>Dooley</td>
-                        <td>july@example.com</td>
-                        <td>july@example.com</td>
-                        <td>july@example.com</td>
-                    </tr>
-                    <tr>
-                        <td>July</td>
-                        <td>Dooley</td>
-                        <td>july@example.com</td>
-                        <td>july@example.com</td>
-                        <td>july@example.com</td>
-                    </tr>
-                    <tr>
-                        <td>July</td>
-                        <td>Dooley</td>
-                        <td>july@example.com</td>
-                        <td>july@example.com</td>
-                        <td>july@example.com</td>
-                    </tr>
-                    <tr>
-                        <td>July</td>
-                        <td>Dooley</td>
-                        <td>july@example.com</td>
-                        <td>july@example.com</td>
-                        <td>july@example.com</td>
-                    </tr>
-                </tbody>
-            </table> -->
-            
+        <div class="row flex-row flex-nowrap" id="csv-display">
+    
         </div>
-
+        <div>
+            <div class="ip i" data-aos="fade-up">
+                <p class="ihead iphead">Industrial Projects</p>
+                <p class="iabout ipabout">IR&P council has one of its primary objectives to give students industrial exposure in the running semester. IR&P council contacts various industry giants and start-ups and brings the live industry problem statements for students to work. It gives students excellent exposure to working with industry professionals under the mentorship of IITGN faculties.</p>
+            </div>
+            <div class="ibp i" data-aos="fade-up">
+                <p class="ibphead ihead"> Institute Building Projects</p>
+                <p class="ibpabout iabout">Institute Building project(IBP) is an initiative of IIT GN. IR&P Council handles these projects. These projects aim to increase student participation in institute work and give them monetary incentives for their participation. Students build good connections with faculties and other students while working on these projects. These projects also provide them an exposure to solving real-life problems.</p>
+            </div>
+        </div>
     </div>
+
+    
+
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -132,8 +80,39 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-        <!-- <script type="text/javascript" src="./static/json/IBP2021.json"></script> -->
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="./static/js/main.js"></script>
+    <script>
+        AOS.init();
+      </script>
 </body>
 
 </html>
+
+
+<!-- <div class="row mybox flex-row flex-nowrap" id="csv-display">
+    <div class="card col-md-5" onClick="showpop()">
+        <h4 class="card-title">Card title</h4>
+    </div>
+    <div class="card col-md-5" onClick="showpop()">
+        <h4 class="card-title">Card title</h4>
+    </div>
+    <div class="card col-md-5" onClick="showpop()">
+        <h4 class="card-title">Card title</h4>
+    </div>
+    <div class="card col-md-5" onClick="showpop()">
+        <h4 class="card-title">Card title</h4>
+    </div>
+    <div class="card col-md-5" onClick="showpop()">
+        <h4 class="card-title">Card title</h4>
+    </div>
+    <div class="card col-md-5" onClick="showpop()">
+        <h4 class="card-title">Card title</h4>
+    </div>
+    <div class="card col-md-3" onClick="showpop()">
+        <h4 class="card-title">Card title</h4>
+    </div>
+    <div class="card col-md-3" onClick="showpop()">
+        <h4 class="card-title">Card title</h4>
+    </div>
+</div> -->

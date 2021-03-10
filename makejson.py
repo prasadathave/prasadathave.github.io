@@ -18,8 +18,8 @@ def make_json(csvFilePath, jsonFilePath):
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(data, indent=4))
 
-csvFilePath = r"./static/sheets/IP2021a.csv"
-jsonFilePath = r'./static/json/IP2021.json'
+csvFilePath = r"./static/sheets/IBP2021b.csv"
+jsonFilePath = r'./static/json/IBP2021b.json'
 
 # Call the make_json function
 make_json(csvFilePath, jsonFilePath)
