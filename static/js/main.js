@@ -261,7 +261,7 @@ var data = {
             "Company Name": "Honeywell -Project 2",
             "Project Details": "P&ID Scanning \n https://drive.google.com/file/d/1Mli9iekwAm73WBLzsHqM-dyIRAIHcuUO/view?usp=sharing",
             "Skills Required": "Image Processing, Python, Machine learning algorithms, OCR.",
-            "Incentives": "",
+            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Shanmuga R",
             "Selected Students": "Udit, Palak and Dhruvi"
         },
@@ -314,7 +314,7 @@ var data = {
             "Sr.No.": "8",
             "Company Name": "Harsha Engineering-Project 1",
             "Project Details": "1. Solution to focus on Noise level reduction up to 75 db. To have safe and pleasant work environment                                                                                                               ",
-            "Skills Required": "-",
+            "Skills Required": "https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.                              ",
             "Faculty Mentor": "Not yet confirmed",
             "Selected Students": "No one was selected "
@@ -323,7 +323,7 @@ var data = {
             "Sr.No.": "9",
             "Company Name": "Harsha Engineering-Project 2",
             "Project Details": "2.Finite element analysis: Cold forming operation of low carbon steel to predict output result                                                                                                                                 \n",
-            "Skills Required": "-",
+            "Skills Required": "https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.",
             "Faculty Mentor": "Prof. Amit Arora ",
             "Selected Students": "No one was selected "
@@ -332,7 +332,7 @@ var data = {
             "Sr.No.": "10",
             "Company Name": "Harsha Engineering-Project 3",
             "Project Details": "3.Finite element analysis: Blanking / Piercing distortion  ",
-            "Skills Required": "-",
+            "Skills Required": "https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.",
             "Faculty Mentor": "Prof. Amit Arora ",
             "Selected Students": "Yasham (Dropped out)"
@@ -351,7 +351,7 @@ var data = {
             "Company Name": "Intersect IQ-Project 2",
             "Project Details": "Unruly/Aggressive Behavior of Drivers:\nhttps://drive.google.com/file/d/10PpwtmUQ_B9b4F15lNGqQH7Mf3xx2_Hy/view?usp=sharing",
             "Skills Required": "Computer Vision, OpenPose Edge Analytics, Edge Alerting, Jetson/Raspberry, DeepStream, Python/C, Human Detection, OpenPose, Speech to text, Sentiment Analysis..",
-            "Incentives": "",
+            "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Krishna Miyapuram",
             "Selected Students": "Gautam Vashishtha, Anurag Kurle and Yash Hiren More"
         },
@@ -360,7 +360,7 @@ var data = {
             "Company Name": "Intersect IQ-Project 3",
             "Project Details": "Gas Leakage Detection https://drive.google.com/file/d/1ZMNKiEuFnIlG0g6IOneAJJ8T2brFtvSR/view?usp=sharing",
             "Skills Required": "-",
-            "Incentives": "-",
+            "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Arup Lal Chakraborty",
             "Selected Students": "Gaurav Sharma, Pulkit Jain and Deep Dave"
         },
@@ -369,7 +369,7 @@ var data = {
             "Company Name": "Intersect IQ-Project 4",
             "Project Details": "Arc Flash: Early Detection  \nhttps://drive.google.com/file/d/1w5k1zeNnrgYAEEmG4h23-lZJbxRoqJFz/view?usp=sharing",
             "Skills Required": "Arc fault detector (AFD); Electrical fire; High-frequency energy; Current variation; Weighted least squares support vector machine.",
-            "Incentives": "",
+            "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Naran Pindoriya",
             "Selected Students": "No one was selected "
         },
@@ -413,7 +413,7 @@ var data = {
             "Sr.No.": "19",
             "Company Name": "Hilti International-Project 2",
             "Project Details": "Seismic \u2013 earth quake prone connections",
-            "Skills Required": "-",
+            "Skills Required": "Project open for Civil Engineering",
             "Incentives": "-",
             "Faculty Mentor": "-",
             "Selected Students": "No one was selected "
@@ -422,7 +422,7 @@ var data = {
             "Sr.No.": "20",
             "Company Name": "Hilti International-Project 3",
             "Project Details": "Data Analytics based for digital marketing and Automation.",
-            "Skills Required": "-",
+            "Skills Required": "Project open for Civil Engineering",
             "Incentives": "-",
             "Faculty Mentor": "Prof. Anirban Dasgupta ",
             "Selected Students": "Aishwarya and Yashi"
@@ -500,9 +500,10 @@ var data = {
             "Selected Students": "Pooja Gupta, Aditya Natu and Paritosh Kavra "
         },
         "29": {
+            
             "Sr.No.": "29",
             "Company Name": "ASITE-Project 1",
-            "Project Details": "-",
+            "Project Details": "1) cBIM: Pinning of 3D models (Arc GIS/KML via GML): Ability to retrieve positioning data from model (with the use of GIS) and pin the 3D model.",
             "Skills Required": "-",
             "Incentives": "Rs 30K per student on completion of project",
             "Faculty Mentor": "Prof. Sameer Kulkarni",
