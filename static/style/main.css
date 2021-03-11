@@ -94,8 +94,9 @@ nav>a{
     width: 100%;
     margin: 0;
     padding: 0;
+    justify-content: center;
 }
-
+/* 
 
 .row{
     overflow-x: scroll;
@@ -108,9 +109,8 @@ nav>a{
 .row::-webkit-scrollbar-thumb {
     border-radius: 10px;
     background-color: rgba(211,211,211,.5);
-    /* background-color: lightgray; */
     -webkit-box-shadow: 0 0 1px rgba(255,255,255,.75);        
-}
+} */
 
 .card{
     position: relative;
@@ -122,7 +122,7 @@ nav>a{
     max-height: 600px;
     font-size: 15px;
     color: black; 
-    word-break: break-all;
+    /* word-break: break-all; */
 }
 
 .head{

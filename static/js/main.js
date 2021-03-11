@@ -11,14 +11,14 @@ var data = {
             "Name of Project": "Student Database System(Awarded as best Project)",
             "Mentor": "Prof. Bipul Saurabh and Prof. Jagmohan Tyagi",
             "Desciption": "Develop a efficient platform to store students data to increase the accessibility ",
-            "Selected Students": "Vishal Soni,Sanskar Nalkande,Hitarth Gandhi,Shubham Deshpande"
+            "Selected Students": "Vishal Soni, Sanskar Nalkande, Hitarth Gandhi, Shubham Deshpande"
         },
         "2": {
             "S. no": "2",
             "Name of Project": "Physical fitness tracking app",
             "Mentor": "Prof. Madhu Vadali",
             "Desciption": "Building a tracking app which can track individual student's exercise count, similar to STRAVA",
-            "Selected Students": "Gautam Vashishtha,Abhiram Geddam"
+            "Selected Students": "Gautam Vashishtha, Abhiram Geddam"
         },
         "3": {
             "S. no": "3",
@@ -39,21 +39,21 @@ var data = {
             "Name of Project": "An app for fire load survey",
             "Mentor": "Prof. Shanmuga Raman",
             "Desciption": "This app will take photo/video of a room/lab and quantify the amount of combustible items from the room.",
-            "Selected Students": "V P Shivasankaran,Muhammad Yusuf Hassan"
+            "Selected Students": "V P Shivasankaran, Muhammad Yusuf Hassan"
         },
         "6": {
             "S. no": "6",
             "Name of Project": "Webportal for Alumni Office",
             "Mentor": "Prof. Jaison",
             "Desciption": "-",
-            "Selected Students": "Mohamed Shamir,Kritika Kumawat,Gaurav Viramgami"
+            "Selected Students": "Mohamed Shamir, Kritika Kumawat, Gaurav Viramgami"
         },
         "7": {
             "S. no": "7",
             "Name of Project": "CDS Webportal maintenance",
             "Mentor": "Prof. Abhay Gautam",
             "Desciption": "Enhancing the webiste's interface to increase accessibility of data ",
-            "Selected Students": "Kalyan Reddy S,Dyavarashetty Peeyush,Mrityunjay saraf                              Chandan Maji"
+            "Selected Students": "Kalyan Reddy S, Dyavarashetty Peeyush, Mrityunjay saraf, Chandan Maji"
         }
     },
 
@@ -63,14 +63,14 @@ var data = {
             "Name of Project": "EWYL portal",
             "Mentor": "Prof. Gopinathan Kalon",
             "Desciption": "Developing a web portal for EWYL approvals from scratch",
-            "Selected Students": "Parimi Siva Krishna Sharma,Onteddu Rama Krishna Reddy,Vedanta Krishna Bhutani"
+            "Selected Students": "Parimi Siva Krishna Sharma, Onteddu Rama Krishna Reddy, Vedanta Krishna Bhutani"
         },
         "2": {
             "Sr.No.": "2",
             "Name of Project": "Booking system for the sports complex",
             "Mentor": "Prof. Abhijit Mishra and Prof. Madhu Vadali",
             "Desciption": "Developing a web portal and suitable algorithm for booking of facilities",
-            "Selected Students": "Reuben Shibu Devanesan,Rishabh Gupta,Aditya Shekhar Sinha"
+            "Selected Students": "Reuben Shibu Devanesan, Rishabh Gupta, Aditya Shekhar Sinha"
         },
         "3": {
             "Sr.No.": "3",
@@ -84,28 +84,28 @@ var data = {
             "Name of Project": "Central instrumentation facility website",
             "Mentor": "Prof. Sameer Dalvi",
             "Desciption": "1. Developing a website for central instrumentation facility.\n2. Making Videos for instruments in lab.\n3. Making Simple brouchre/handout for lab\n",
-            "Selected Students": "Akhilesh Chauhan,Deep Samir Thakkar"
+            "Selected Students": "Akhilesh Chauhan, Deep Samir Thakkar"
         },
         "5": {
             "Sr.No.": "5",
             "Name of Project": "Waste food management in mess",
             "Mentor": "Prof. Arnab Saha",
             "Desciption": "Designing a proper waste disposal system in mess for left food ",
-            "Selected Students": "Mohammed Aasim Shaikh,Prateeti Rajjak"
+            "Selected Students": "Mohammed Aasim Shaikh, Prateeti Rajjak"
         },
         "6": {
             "Sr.No.": "6",
             "Name of Project": "HSS course allotment ",
             "Mentor": "Prof. Dilip Sundaram",
             "Desciption": "Developing a course allocation tool for fair allotment to all instead of IRCTC model \n: Discover and plan a method and implement a fair algorithm for course allotment \n",
-            "Selected Students": "Rushil Shah,Chandrahas Pundru                                                           N. V. Karthikeya"
+            "Selected Students": "Rushil Shah, Chandrahas Pundru                                                           N. V. Karthikeya"
         },
         "7": {
             "Sr.No.": "7",
             "Name of Project": "App for organic farm",
             "Mentor": "Prof. Sivapriya Kirubakaran",
             "Desciption": "An app for placing orders and payments",
-            "Selected Students": "Abhavya Chandra,Shubham Deshpande"
+            "Selected Students": "Abhavya Chandra, Shubham Deshpande"
         }
     },
     "Ba" :{
@@ -163,7 +163,7 @@ var data = {
             "Project Details": "Create a data visualization application for streaming data",
             "Incentives": "Certificate",
             "Faculty Mentor": "NA",
-            "Selected Students": "Prasad Athave,Dhyey Jani, Pranshu, Siddharth Soni, Viraj Shah (BTech'18) Rahul Manusmare (Mtech'18)\n"
+            "Selected Students": "Prasad Athave, Dhyey Jani, Pranshu, Siddharth Soni, Viraj Shah (BTech'18), Rahul Manusmare (Mtech'18)\n"
         },
         "8": {
             "Sr.No.": "8",
@@ -466,7 +466,7 @@ var data = {
         "25": {
             "Sr.No.": "25",
             "Company Name": "ITC-Project 4",
-            "Project Details": "4. Smart Drones for monitoring people on factory campus",
+            "Project Details": "Smart Drones for monitoring people on factory campus",
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "Prof. Madhu Vadali",
@@ -475,7 +475,7 @@ var data = {
         "26": {
             "Sr.No.": "26",
             "Company Name": "ITC-Project 5",
-            "Project Details": "5. Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics",
+            "Project Details": "Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics",
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "Prof. Sriharitha Rowthu",
@@ -521,7 +521,7 @@ var data = {
         "31": {
             "Sr.No.": "31",
             "Company Name": "Hero Electric Vehicles",
-            "Project Details": "- Increase the efficiency of BLDC Hub Motor from the current 80% to the required 92-95%.\n- The current Peak power used is 1 kW / 1.5 kW. For further development, the company wants to go for 2.0 kW and above to get high speed.",
+            "Project Details": "Increase the efficiency of BLDC Hub Motor from the current 80% to the required 92-95%.\n- The current Peak power used is 1 kW / 1.5 kW. For further development, the company wants to go for 2.0 kW and above to get high speed.",
             "Skills Required": "-",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Ragavan K",
@@ -529,13 +529,16 @@ var data = {
         }
     }
 };
+
 $(document).ready(function () {
     $(window).on('load', function () {
         $(window).scrollTop(0);
         $("#csv-display").empty();
+        $(".foots").css("display", "block");
     });
 
     $(".A").click(function(){
+        $(".foots").css("display", "none");
         $("#csv-display").empty();
         var ele = $(this).attr('id');
         // console.log(ele)
@@ -546,6 +549,7 @@ $(document).ready(function () {
         generatecardsIBP(mydata);
     });
     $(".B").click(function(){
+        $(".foots").css("display", "none");
         $("#csv-display").empty();
         var ele = $(this).attr('id');
         // console.log(ele)
@@ -564,14 +568,10 @@ function generatecardsIBP(data) {
     console.log(typeof(data));
     for(key in data) {
         console.log(key)
-        html+='<div class="col-md-6 col-12 card card-block"><div class="head"><p class="ptitle">';
+        html+='<div class="col-md-6 col-12 card card-block" data-aos="fade-up"><div class="head"><p class="ptitle">';
         html+= data[key]["Name of Project"];
-
         html+='</p></div><div class="content"><p class="details">';
-        dta = data[key]["Desciption"];
-        if(dta!=='-'){
         html+=data[key]["Desciption"];
-        }
         html+='</p><p class="title">Faculty Mentor</p><p class="mentor">';
         html+=data[key]["Mentor"];
         html+='</p><p class="title">Selected Students</p><p class="students">';
@@ -587,7 +587,7 @@ function generatecardsIP(data) {
     console.log(typeof(data));
     for(key in data) {
         console.log(key)
-        html+='<div class="col-md-6 col-12 card card-block"><div class="head"><p class="ptitle">';
+        html+='<div class="col-md-6 col-12 card card-block" data-aos="fade-up"><div class="head"><p class="ptitle">';
         html+= data[key]["Company Name"];
         html+='</p></div><div class="content"><p class="details">';
         html+=data[key]["Project Details"];
