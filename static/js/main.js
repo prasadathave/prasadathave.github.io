@@ -417,7 +417,7 @@ var data = {
             "Project Details": "Seismic \u2013 earth quake prone connections",
             "Skills Required": "Project open for Civil Engineering",
             "Incentives": "Certificate",
-            "Faculty Mentor": "-",
+            "Faculty Mentor": "Prof. Manish Kumar",
             "Selected Students": "No one was selected "
         },
         "20": {
