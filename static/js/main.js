@@ -441,7 +441,7 @@ var data = {
         "22": {
             "Sr.No.": "22",
             "Company Name": "ITC-Project 1",
-            "Project Details": "-",
+            "Project Details": "Development of low cost drip irrigation system for sustaining small farmer’s profitability.",
             "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n ",
             "Faculty Mentor": "-",
