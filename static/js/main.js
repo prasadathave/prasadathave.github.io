@@ -252,7 +252,7 @@ var data = {
         "1": {
             "Sr.No.": "1",
             "Company Name": "Honeywell -Project 1",
-            "Project Details": "PERCEPTIBLE SENSING INTERFACE PLATFORM TO EASE EDGE ANALYTICS  <a href=' https://drive.google.com/file/d/1WSpvMOZBx13BnIQT_Kn9C0WqJaN6u0dw/view?usp=sharing'>more details</a>",
+            "Project Details": "PERCEPTIBLE SENSING INTERFACE PLATFORM TO EASE EDGE ANALYTICS\n  <a href=' https://drive.google.com/file/d/1WSpvMOZBx13BnIQT_Kn9C0WqJaN6u0dw/view?usp=sharing'>more details</a>",
             "Skills Required": "Engg mechanics, Strength of materials, Machine design, Reliability, MS Excel, Matlab (optional)",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project ",
             "Faculty Mentor": "Prof. Ravi Sastri Ayyagari",
@@ -270,7 +270,7 @@ var data = {
         "3": {
             "Sr.No.": "3",
             "Company Name": "Honeywell -Project 3",
-            "Project Details": "Platform to enable plug and play capability to all identified digital output sensor and edge analytics. <a href='https://drive.google.com/file/d/1kb2RhIXjDh1ba4P4ftHK043yenlYndil/view?usp=sharing'>more details</a>",
+            "Project Details": "Platform to enable plug and play capability to all identified digital output sensor and edge analytics.\n <a href='https://drive.google.com/file/d/1kb2RhIXjDh1ba4P4ftHK043yenlYndil/view?usp=sharing'>more details</a>",
             "Skills Required": "embedded C, Middleware and inclination to hardware design",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project ",
             "Faculty Mentor": "Prof. Sameer G Kulkarn",
@@ -279,7 +279,7 @@ var data = {
         "4": {
             "Sr.No.": "4",
             "Company Name": "Lexus Softmac",
-            "Project Details": "There will be three components of the project to be done by one team. Here are the details of the first component:\n- Programming two light control boards to switch various LED series\n- Two boards will be given, one with the LEDs and one without them\n- All the required hardware will be delivered to the team as and when required\n- The details of the remaining components of the project will be given once this elementary problem statement is solved.<a href='https://docs.google.com/document/d/1sTde_-k7CaKf6QZuc-z5qIqkAYyh-slOEY-DUlmQmqQ/edit?usp=sharing'>more details</a>",
+            "Project Details": "There will be three components of the project to be done by one team. Here are the details of the first component:\n- Programming two light control boards to switch various LED series\n- Two boards will be given, one with the LEDs and one without them\n- All the required hardware will be delivered to the team as and when required\n- The details of the remaining components of the project will be given once this elementary problem statement is solved.\n<a href='https://docs.google.com/document/d/1sTde_-k7CaKf6QZuc-z5qIqkAYyh-slOEY-DUlmQmqQ/edit?usp=sharing'>more details</a>",
             "Skills Required": "Electronic devices",
             "Incentives": "Monetary prize of 1Lakh(per team) on successful completion of the project, might also look at offering internship",
             "Faculty Mentor": "Prof. Nihar Mohpatra",
@@ -432,7 +432,7 @@ var data = {
         "21": {
             "Sr.No.": "21",
             "Company Name": "Ashai Glass",
-            "Project Details": "TiO2 thin films by chemical vapor deposition <a href='https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing'>more details</a>",
+            "Project Details": "TiO2 thin films by chemical vapor deposition\n <a href='https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing'>more details</a>",
             "Skills Required": "-",
             "Incentives": "Certificate + Monthy stipend of 25K(team).Chance of internship at their place is very high.",
             "Faculty Mentor": "Prof. Gopinadhan Kalon and Prof. Vinod Narayanan",
@@ -495,7 +495,7 @@ var data = {
         "28": {
             "Sr.No.": "28",
             "Company Name": "Heat Chem",
-            "Project Details": "Design computational models for chiller with thermal and fluid analysis. <a href='https://drive.google.com/file/d/19RGC1_hn0w7YuuZVR94qkKS31qBQOV8G/view?usp=sharing'>more details</a>",
+            "Project Details": "Design computational models for chiller with thermal and fluid analysis.\n <a href='https://drive.google.com/file/d/19RGC1_hn0w7YuuZVR94qkKS31qBQOV8G/view?usp=sharing'>more details</a>",
             "Skills Required": "CAD, CFD, FEA",
             "Incentives": "Rs 7k per student + Potential Internship",
             "Faculty Mentor": "Prof. Jaichander Swaminathan",
