@@ -432,7 +432,7 @@ var data = {
         "21": {
             "Sr.No.": "21",
             "Company Name": "Ashai Glass",
-            "Project Details": "TiO2 thin films by chemical vapor deposition             https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing",
+            "Project Details": "TiO2 thin films by chemical vapor deposition https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing",
             "Skills Required": "-",
             "Incentives": "Certificate + Monthy stipend of 25K(team).Chance of internship at their place is very high.",
             "Faculty Mentor": "Prof. Gopinadhan Kalon and Prof. Vinod Narayanan",
@@ -445,7 +445,7 @@ var data = {
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n ",
             "Faculty Mentor": "-",
-            "Selected Students": "No one wasUdit selected "
+            "Selected Students": "TBD"
         },
         "23": {
             "Sr.No.": "23",
@@ -454,7 +454,7 @@ var data = {
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
-            "Selected Students": "No one was selected "
+            "Selected Students": "TBD"
         },
         "24": {
             "Sr.No.": "24",
@@ -463,7 +463,7 @@ var data = {
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
-            "Selected Students": "No one was selected "
+            "Selected Students": "TBD"
         },
         "25": {
             "Sr.No.": "25",
@@ -472,7 +472,7 @@ var data = {
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "Prof. Madhu Vadali",
-            "Selected Students": "No one was selected "
+            "Selected Students": "TBD"
         },
         "26": {
             "Sr.No.": "26",
@@ -481,7 +481,7 @@ var data = {
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "Prof. Sriharitha Rowthu",
-            "Selected Students": "No one was selected "
+            "Selected Students": "TBD"
         },
         "27": {
             "Sr.No.": "27",
@@ -490,7 +490,7 @@ var data = {
             "Skills Required": "https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
-            "Selected Students": "No one was selected "
+            "Selected Students": "TBD"
         },
         "28": {
             "Sr.No.": "28",
@@ -505,7 +505,7 @@ var data = {
             
             "Sr.No.": "29",
             "Company Name": "ASITE-Project 1",
-            "Project Details": "1) cBIM: Pinning of 3D models (Arc GIS/KML via GML): Ability to retrieve positioning data from model (with the use of GIS) and pin the 3D model.",
+            "Project Details": "cBIM: Pinning of 3D models (Arc GIS/KML via GML): Ability to retrieve positioning data from model (with the use of GIS) and pin the 3D model.",
             "Skills Required": "-",
             "Incentives": "Rs 30K per student on completion of project",
             "Faculty Mentor": "Prof. Sameer Kulkarni",
@@ -514,8 +514,8 @@ var data = {
         "30": {
             "Sr.No.": "30",
             "Company Name": "ASITE-Project 2",
-            "Project Details": "2) cBIM: Intermediate Service between PDFTron and Hoops Viewer to sync viewpoint of model file.: Utility which can be used to sync viewpoint of 3D model between 2D viewer (PDFTron viewer) and 3D viewer (Hoops Communicator Viewer)",
-            "Skills Required": "",
+            "Project Details": "cBIM: Intermediate Service between PDFTron and Hoops Viewer to sync viewpoint of model file.: Utility which can be used to sync viewpoint of 3D model between 2D viewer (PDFTron viewer) and 3D viewer (Hoops Communicator Viewer)",
+            "Skills Required": "-",
             "Incentives": "Rs 30K per student on completion of project",
             "Faculty Mentor": "Prof. Sameer Kulkarni",
             "Selected Students": "Ayush Anand, Shreyshi Singh and Siddhi Pravin Surawar "
