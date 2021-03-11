@@ -241,7 +241,7 @@ var data = {
         },
         "17": {
             "Sr.No.": "17",
-            "Company Name": "GUVNL-Project 2",
+            "Company Name": "GUVNL-Project 3",
             "Project Details": "Research Project and task Management system",
             "Incentives": "Certificate",
             "Faculty Mentor": "NA",
