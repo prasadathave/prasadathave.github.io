@@ -380,7 +380,7 @@ var data = {
             "Company Name": "Intersect IQ-Project 5",
             "Project Details": "Arch Flash Prediction\nhttps://drive.google.com/file/d/1GrXbc0185N6IeCkyLQzkAQD44zDctq_I/view?usp=sharing ",
             "Skills Required": "Trip Units , Circuit Breakers Analytics, Waveform, Electrical panel",
-            "Incentives": "",
+            "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Naran Pindoriya",
             "Selected Students": "No one was selected "
         },
@@ -416,7 +416,7 @@ var data = {
             "Company Name": "Hilti International-Project 2",
             "Project Details": "Seismic \u2013 earth quake prone connections",
             "Skills Required": "Project open for Civil Engineering",
-            "Incentives": "-",
+            "Incentives": "Certificate",
             "Faculty Mentor": "-",
             "Selected Students": "No one was selected "
         },
@@ -425,14 +425,14 @@ var data = {
             "Company Name": "Hilti International-Project 3",
             "Project Details": "Data Analytics based for digital marketing and Automation.",
             "Skills Required": "Project open for Civil Engineering",
-            "Incentives": "-",
+            "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Anirban Dasgupta ",
             "Selected Students": "Aishwarya Malve and Yashi Gaur"
         },
         "21": {
             "Sr.No.": "21",
             "Company Name": "Ashai Glass",
-            "Project Details": "TiO2 thin films by chemical vapor deposition https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing",
+            "Project Details": "TiO2 thin films by chemical vapor deposition <a href='https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing'>more details</a>",
             "Skills Required": "-",
             "Incentives": "Certificate + Monthy stipend of 25K(team).Chance of internship at their place is very high.",
             "Faculty Mentor": "Prof. Gopinadhan Kalon and Prof. Vinod Narayanan",
@@ -442,7 +442,7 @@ var data = {
             "Sr.No.": "22",
             "Company Name": "ITC-Project 1",
             "Project Details": "-",
-            "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
+            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n ",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
@@ -451,7 +451,7 @@ var data = {
             "Sr.No.": "23",
             "Company Name": "ITC-Project 2",
             "Project Details": "Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.",
-            "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
+            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
@@ -460,7 +460,7 @@ var data = {
             "Sr.No.": "24",
             "Company Name": "ITC-Project 3",
             "Project Details": "i-SMART Research Scholar - AI based tool",
-            "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
+            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
@@ -469,7 +469,7 @@ var data = {
             "Sr.No.": "25",
             "Company Name": "ITC-Project 4",
             "Project Details": "Smart Drones for monitoring people on factory campus",
-            "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
+            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "Prof. Madhu Vadali",
             "Selected Students": "TBD"
@@ -478,7 +478,7 @@ var data = {
             "Sr.No.": "26",
             "Company Name": "ITC-Project 5",
             "Project Details": "Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics",
-            "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
+            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "Prof. Sriharitha Rowthu",
             "Selected Students": "TBD"
@@ -487,7 +487,7 @@ var data = {
             "Sr.No.": "27",
             "Company Name": "ITC-Project 6",
             "Project Details": "Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)",
-            "Skills Required": "https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
+            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
@@ -495,7 +495,7 @@ var data = {
         "28": {
             "Sr.No.": "28",
             "Company Name": "Heat Chem",
-            "Project Details": "Design computational models for chiller with thermal and fluid analysis.  https://drive.google.com/file/d/19RGC1_hn0w7YuuZVR94qkKS31qBQOV8G/view?usp=sharing",
+            "Project Details": "Design computational models for chiller with thermal and fluid analysis. <a href='https://drive.google.com/file/d/19RGC1_hn0w7YuuZVR94qkKS31qBQOV8G/view?usp=sharing'>more details</a>",
             "Skills Required": "CAD, CFD, FEA",
             "Incentives": "Rs 7k per student + Potential Internship",
             "Faculty Mentor": "Prof. Jaichander Swaminathan",
