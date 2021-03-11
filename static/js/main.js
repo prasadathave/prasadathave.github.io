@@ -141,7 +141,7 @@ var data = {
             "Project Details": "Data pipeline",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Shanmuga R",
-            "Selected Students": "Prasad Athave,Dhyey Jani, Pranshu, Siddharth Soni, Viraj Shah (BTech'18) Rahul Manusmare (Mtech'18)\n"
+            "Selected Students": " Siddharth Soni\n"
         },
         "5": {
             "Sr.No.": "5",
@@ -149,7 +149,7 @@ var data = {
             "Project Details": "Research and solve problems that could occur while running deep learning application on low-end PC",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Shanmuga R",
-            "Selected Students": "Prasad Athave,Dhyey Jani, Pranshu, Siddharth Soni, Viraj Shah (BTech'18) Rahul Manusmare (Mtech'18)\n"
+            "Selected Students": "Viraj Shah (BTech'18)\n"
         },
         "6": {
             "Sr.No.": "6",
@@ -157,7 +157,7 @@ var data = {
             "Project Details": "Create new/ enhance our existing person re-identification system",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof.Shanmuga R",
-            "Selected Students": "Prasad Athave,Dhyey Jani, Pranshu, Siddharth Soni, Viraj Shah (BTech'18) Rahul Manusmare (Mtech'18)\n"
+            "Selected Students": "Prasad Athave and Dhyey Jani\n"
         },
         "7": {
             "Sr.No.": "7",
@@ -165,7 +165,7 @@ var data = {
             "Project Details": "Create a data visualization application for streaming data",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Shanmuga R",
-            "Selected Students": "Prasad Athave, Dhyey Jani, Pranshu, Siddharth Soni, Viraj Shah (BTech'18), Rahul Manusmare (Mtech'18)\n"
+            "Selected Students": "Rahul Manusmare (Mtech'18)\n"
         },
         "8": {
             "Sr.No.": "8",
@@ -228,24 +228,24 @@ var data = {
             "Company Name": "GUVNL-Project 1",
             "Project Details": "GPS based Mobile App for Meter reading Route trace of Meter Reader",
             "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
-            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
+            "Faculty Mentor": "-",
+            "Selected Students": "Aman Sharma"
         },
         "16": {
             "Sr.No.": "16",
             "Company Name": "GUVNL-Project 2",
             "Project Details": "Power Complaint Tracking, monitoring and Priority base problem resolve with Management dashboard",
             "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
-            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
+            "Faculty Mentor": "-",
+            "Selected Students": "Shruti Katpara"
         },
         "17": {
             "Sr.No.": "17",
             "Company Name": "GUVNL-Project 3",
             "Project Details": "Research Project and task Management system",
             "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
-            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
+            "Faculty Mentor": "-",
+            "Selected Students": "Shashi Saraf and Ashish Chavan"
         }
     },
     "Bb" :{
