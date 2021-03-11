@@ -256,7 +256,7 @@ var data = {
             "Skills Required": "Engg mechanics, Strength of materials, Machine design, Reliability, MS Excel, Matlab (optional)",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project ",
             "Faculty Mentor": "Prof. Ravi Sastri Ayyagari",
-            "Selected Students": "Abhiraj, Vaishnavi and Shivang "
+            "Selected Students": "Abhiraj Bhasin, Vaishnavi Kodwadkar and Shivang Pareek"
         },
         "2": {
             "Sr.No.": "2",
@@ -265,7 +265,7 @@ var data = {
             "Skills Required": "Image Processing, Python, Machine learning algorithms, OCR.",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Shanmuga R",
-            "Selected Students": "Udit, Palak and Dhruvi"
+            "Selected Students": "Udit Vyas, Palak Purohit and Dhruvi Lodhavia"
         },
         "3": {
             "Sr.No.": "3",
@@ -292,7 +292,7 @@ var data = {
             "Skills Required": "Verilog/VHDL,Working with FPGA,Python",
             "Incentives": "Certificate + Monetary reward of 25K(per team) on successful completion of the project + Intership offer",
             "Faculty Mentor": "Prof. Joycee Mekie",
-            "Selected Students": "Sai Shubham, Harshit and Aryamann"
+            "Selected Students": "Sai Shubham, Harshit and Aryamann Tomar"
         },
         "6": {
             "Sr.No.": "6",
@@ -301,7 +301,7 @@ var data = {
             "Skills Required": "Verilog and FPGA",
             "Incentives": "Certificate + Monetary reward of 25K(per team) on successful completion of the project + Intership offer",
             "Faculty Mentor": "Prof. Joycee Mekie",
-            "Selected Students": "Tarun, Paras and Prashant "
+            "Selected Students": "Tarun Sharma, Paras and Prashant "
         },
         "7": {
             "Sr.No.": "7",
@@ -310,12 +310,12 @@ var data = {
             "Skills Required": "FPGA,Verilog/VHDL,Computer Vision,Python",
             "Incentives": "Certificate + Monetary reward of 25K(per team) on successful completion of the project + Intership offer",
             "Faculty Mentor": "Prof. Shanmuganathan Raman",
-            "Selected Students": "Arpita, Deepika, Pradip and Yash K"
+            "Selected Students": "Arpita Kabra, Deepika Soni, Pradip Prajapati and Yash Kamble"
         },
         "8": {
             "Sr.No.": "8",
             "Company Name": "Harsha Engineering-Project 1",
-            "Project Details": "1. Solution to focus on Noise level reduction up to 75 db. To have safe and pleasant work environment                                                                                                               ",
+            "Project Details": "Solution to focus on Noise level reduction up to 75 db. To have safe and pleasant work environment                                                                                                               ",
             "Skills Required": "https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.                              ",
             "Faculty Mentor": "Not yet confirmed",
@@ -324,7 +324,7 @@ var data = {
         "9": {
             "Sr.No.": "9",
             "Company Name": "Harsha Engineering-Project 2",
-            "Project Details": "2.Finite element analysis: Cold forming operation of low carbon steel to predict output result                                                                                                                                 \n",
+            "Project Details": "Finite element analysis: Cold forming operation of low carbon steel to predict output result                                                                                                                                 \n",
             "Skills Required": "https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.",
             "Faculty Mentor": "Prof. Amit Arora ",
@@ -333,11 +333,11 @@ var data = {
         "10": {
             "Sr.No.": "10",
             "Company Name": "Harsha Engineering-Project 3",
-            "Project Details": "3.Finite element analysis: Blanking / Piercing distortion  ",
+            "Project Details": "Finite element analysis: Blanking / Piercing distortion  ",
             "Skills Required": "https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.",
             "Faculty Mentor": "Prof. Amit Arora ",
-            "Selected Students": "Yasham (Dropped out)"
+            "Selected Students": "Yasham Mundada(Dropped out)"
         },
         "11": {
             "Sr.No.": "11",
@@ -409,7 +409,7 @@ var data = {
             "Skills Required": "Project open for Civil Engineering",
             "Incentives": "Will be updated soon",
             "Faculty Mentor": "Prof. Manish Kumar ",
-            "Selected Students": "Dhruvi G, Shubhang and Vaibhav Sharma "
+            "Selected Students": "Dhruvi Gondalia, Shubhang Trivedi and Vaibhav Sharma "
         },
         "19": {
             "Sr.No.": "19",
@@ -427,7 +427,7 @@ var data = {
             "Skills Required": "Project open for Civil Engineering",
             "Incentives": "-",
             "Faculty Mentor": "Prof. Anirban Dasgupta ",
-            "Selected Students": "Aishwarya and Yashi"
+            "Selected Students": "Aishwarya Malve and Yashi Gaur"
         },
         "21": {
             "Sr.No.": "21",
@@ -436,7 +436,7 @@ var data = {
             "Skills Required": "-",
             "Incentives": "Certificate + Monthy stipend of 25K(team).Chance of internship at their place is very high.",
             "Faculty Mentor": "Prof. Gopinadhan Kalon and Prof. Vinod Narayanan",
-            "Selected Students": "Aditi, Bhavya and Maitreya"
+            "Selected Students": "Aditi Gera, Bhavya Gupta and Maitreya Thakur"
         },
         "22": {
             "Sr.No.": "22",
@@ -445,12 +445,12 @@ var data = {
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n ",
             "Faculty Mentor": "-",
-            "Selected Students": "No one was selected "
+            "Selected Students": "No one wasUdit selected "
         },
         "23": {
             "Sr.No.": "23",
             "Company Name": "ITC-Project 2",
-            "Project Details": "2. Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.",
+            "Project Details": "Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.",
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
@@ -459,7 +459,7 @@ var data = {
         "24": {
             "Sr.No.": "24",
             "Company Name": "ITC-Project 3",
-            "Project Details": "3. i-SMART Research Scholar - AI based tool",
+            "Project Details": "i-SMART Research Scholar - AI based tool",
             "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
@@ -486,8 +486,8 @@ var data = {
         "27": {
             "Sr.No.": "27",
             "Company Name": "ITC-Project 6",
-            "Project Details": "6. Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)",
-            "Skills Required": "Detailed doc: https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
+            "Project Details": "Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)",
+            "Skills Required": "https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
             "Selected Students": "No one was selected "
