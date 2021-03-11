@@ -103,7 +103,7 @@ var data = {
         "7": {
             "Sr.No.": "7",
             "Name of Project": "App for organic farm",
-            "Mentor": "Prof. Sivapriya Kirubakaran",
+            "Mentor": "Prof. Pratik Mutha",
             "Desciption": "An app for placing orders and payments",
             "Selected Students": "Abhavya Chandra, Shubham Deshpande"
         }
@@ -111,27 +111,29 @@ var data = {
     "Ba" :{
         "1": {
             "Sr.No.": "1",
-            "Company Name": "GUVNL-Project 1",
-            "Project Details": "GPS based Mobile App for Meter reading Route trace of Meter Reader",
-            "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
-            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
+            "Company Name": "Honeywell-Project 1",
+            "Project Details": "People counting using mmWave",
+            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
+            "Faculty Mentor": "Prof. Shanmuga R",
+            "Selected Students": "Ajj Patel and Urvish Patel (Btech 17)"
         },
         "2": {
             "Sr.No.": "2",
-            "Company Name": "GUVNL-Project 2",
-            "Project Details": "Power Complaint Tracking, monitoring and Priority base problem resolve with Management dashboard",
-            "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
-            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
+            "Company Name": "Honeywell-Project 2",
+            "Project Details": "Programmable  PLC",
+            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
+            "Faculty Mentor": "Prof. Naran Pindoriya",
+            "Selected Students": "Jainendra Jain and Aabila Tharzeen (MTech'19)"
         },
         "3": {
             "Sr.No.": "3",
-            "Company Name": "GUVNL-Project 2",
-            "Project Details": "Research Project and task Management system",
-            "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
-            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
+            "Company Name": "Honeywell-Project 3",
+            "Project Details": "Smart LMS (Learning management system)",
+            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
+            "Faculty Mentor": "Prof. Anirban Dasgupta",
+            "Selected Students": "Ayush, Aditya Garg and Anup(Btech 17)"
+
+
         },
         "4": {
             "Sr.No.": "4",
@@ -162,7 +164,7 @@ var data = {
             "Company Name": "Counter Vision-Project 4",
             "Project Details": "Create a data visualization application for streaming data",
             "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
+            "Faculty Mentor": "Prof. Shanmuga R",
             "Selected Students": "Prasad Athave, Dhyey Jani, Pranshu, Siddharth Soni, Viraj Shah (BTech'18), Rahul Manusmare (Mtech'18)\n"
         },
         "8": {
@@ -178,7 +180,7 @@ var data = {
             "Company Name": "DP Pulveriser-Project 2",
             "Project Details": "Optimization and CFD of Centrifugal Wheel to be used in an Air Classifier\n",
             "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
+            "Faculty Mentor": "Prof. Ramakrishna",
             "Selected Students": "No one selected"
         },
         "10": {
@@ -186,7 +188,7 @@ var data = {
             "Company Name": "DP Pulveriser-Project 3",
             "Project Details": "Development of Cryogenic Grinding System for Grinding of Spices",
             "Incentives": "Certificate",
-            "Faculty Mentor": "NA",
+            "Faculty Mentor": "Prof. Ramakrishna",
             "Selected Students": "Nishkarsh Srivastava (MTech'19)"
         },
         "11": {
@@ -223,27 +225,27 @@ var data = {
         },
         "15": {
             "Sr.No.": "15",
-            "Company Name": "Honeywell-Project 1",
-            "Project Details": "People counting using mmWave",
-            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
-            "Faculty Mentor": "Prof. Shanmuga R",
-            "Selected Students": "Ajj Patel and Urvish Patel (Btech 17)"
+            "Company Name": "GUVNL-Project 1",
+            "Project Details": "GPS based Mobile App for Meter reading Route trace of Meter Reader",
+            "Incentives": "Certificate",
+            "Faculty Mentor": "NA",
+            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
         },
         "16": {
             "Sr.No.": "16",
-            "Company Name": "Honeywell-Project 2",
-            "Project Details": "Programmable  PLC",
-            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
-            "Faculty Mentor": "Prof. Naran Pindoriya",
-            "Selected Students": "Jainendra Jain and Aabila Tharzeen (MTech'19)"
+            "Company Name": "GUVNL-Project 2",
+            "Project Details": "Power Complaint Tracking, monitoring and Priority base problem resolve with Management dashboard",
+            "Incentives": "Certificate",
+            "Faculty Mentor": "NA",
+            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
         },
         "17": {
             "Sr.No.": "17",
-            "Company Name": "Honeywell-Project 3",
-            "Project Details": "Smart LMS (Learning management system)",
-            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
-            "Faculty Mentor": "Prof. Anirban Dasgupta",
-            "Selected Students": "Ayush, Aditya Garg and Anup(Btech 17)"
+            "Company Name": "GUVNL-Project 2",
+            "Project Details": "Research Project and task Management system",
+            "Incentives": "Certificate",
+            "Faculty Mentor": "NA",
+            "Selected Students": "Aman Sharma, Shruti Katpara, Shashi Saraf,Ashish Chavan"
         }
     },
     "Bb" :{
