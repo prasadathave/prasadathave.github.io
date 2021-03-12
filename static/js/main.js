@@ -290,7 +290,7 @@ var data = {
             "Company Name": "ITC-Project 1",
             "Project Details": "Development of low cost drip irrigation system for sustaining small farmer’s profitability.<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br> ",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected team/individual. (To be decided by ITC scientists)<br><br> ",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
@@ -300,7 +300,7 @@ var data = {
             "Company Name": "ITC-Project 2",
             "Project Details": "Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
@@ -309,7 +309,7 @@ var data = {
             "Company Name": "ITC-Project 3",
             "Project Details": "i-SMART Research Scholar - AI based tool<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         
@@ -330,7 +330,7 @@ var data = {
             "Company Name": "ITC-Project 5",
             "Project Details": "Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "Prof. Sriharitha Rowthu",
             "Selected Students": "TBD"
         },
@@ -339,7 +339,7 @@ var data = {
             "Company Name": "ITC-Project 6",
             "Project Details": "Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
