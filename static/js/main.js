@@ -128,7 +128,7 @@ var data = {
         "3": {
             "Sr.No.": "3",
             "Company Name": "Honeywell-Project 3",
-            "Project Details": "Smart LMS (Learning management system)\n\n<a href='https://drive.google.com/file/d/1PbtIxd9I1kZZ9mshD4hr9p8drXjrmQfh/view?usp=sharing'>Detailed documetn</a>",
+            "Project Details": "Smart LMS (Learning management system)\n\n<a href='https://drive.google.com/file/d/1PbtIxd9I1kZZ9mshD4hr9p8drXjrmQfh/view?usp=sharing'>Detailed document</a>",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Anirban Dasgupta",
             "Selected Students": "Ayush, Aditya Garg and Anup(Btech 17)"
