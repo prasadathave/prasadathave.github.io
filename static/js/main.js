@@ -112,7 +112,7 @@ var data = {
         "1": {
             "Sr.No.": "1",
             "Company Name": "Honeywell-Project 1",
-            "Project Details": "People counting using mmWave",
+            "Project Details": "People counting using mmWave <a href='https://drive.google.com/file/d/1Kff39XRcka1jkefUtj3gnW7HEIRuHCfY/view?usp=sharing'>Detailed document</a>",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Shanmuga R",
             "Selected Students": "Ajj Patel and Urvish Patel (Btech 17)"
@@ -120,7 +120,7 @@ var data = {
         "2": {
             "Sr.No.": "2",
             "Company Name": "Honeywell-Project 2",
-            "Project Details": "Programmable  PLC",
+            "Project Details": "Programmable  PLC\n\n<a href ='https://drive.google.com/file/d/1Xtf6uEB1HV98hh09xBeCdV_nIvuFx_er/view?usp=sharing'>Detailed document</a>",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Naran Pindoriya",
             "Selected Students": "Jainendra Jain and Aabila Tharzeen (MTech'19)"
@@ -128,7 +128,7 @@ var data = {
         "3": {
             "Sr.No.": "3",
             "Company Name": "Honeywell-Project 3",
-            "Project Details": "Smart LMS (Learning management system)",
+            "Project Details": "Smart LMS (Learning management system)\n\n<a href='https://drive.google.com/file/d/1PbtIxd9I1kZZ9mshD4hr9p8drXjrmQfh/view?usp=sharing'>Detailed documetn</a>",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Anirban Dasgupta",
             "Selected Students": "Ayush, Aditya Garg and Anup(Btech 17)"
