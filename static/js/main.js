@@ -154,7 +154,7 @@ var data = {
         "6": {
             "Sr.No.": "6",
             "Company Name": "Counter Vision-Project 3",
-            "Project Details": "Create new/ enhance our existing person re-identification system",
+            "Project Details": "Create new model and enhance our existing person re-identification system",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof.Shanmuga R",
             "Selected Students": "Prasad Athave and Dhyey Jani\n"
