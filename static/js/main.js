@@ -321,7 +321,7 @@ var data = {
             "Company Name": "ITC-Project 4",
             "Project Details": "Smart Drones for monitoring people on factory campus<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "Prof. Madhu Vadali",
             "Selected Students": "TBD"
         },
