@@ -83,7 +83,7 @@ var data = {
             "Sr.No.": "4",
             "Name of Project": "Central instrumentation facility website",
             "Mentor": "Prof. Sameer Dalvi",
-            "Desciption": "1. Developing a website for central instrumentation facility.\n2. Making Videos for instruments in lab.\n3. Making Simple brouchre/handout for lab\n",
+            "Desciption": "1. Developing a website for central instrumentation facility.<br>2. Making Videos for instruments in lab.<br>3. Making Simple brouchre/handout for lab<br>",
             "Selected Students": "Akhilesh Chauhan, Deep Samir Thakkar"
         },
         "5": {
@@ -97,7 +97,7 @@ var data = {
             "Sr.No.": "6",
             "Name of Project": "HSS course allotment ",
             "Mentor": "Prof. Dilip Sundaram",
-            "Desciption": "Developing a course allocation tool for fair allotment to all instead of IRCTC model \n: Discover and plan a method and implement a fair algorithm for course allotment \n",
+            "Desciption": "Developing a course allocation tool for fair allotment to all instead of IRCTC model <br>: Discover and plan a method and implement a fair algorithm for course allotment <br>",
             "Selected Students": "Rushil Shah, Chandrahas Pundru                                                           N. V. Karthikeya"
         },
         "7": {
@@ -112,7 +112,7 @@ var data = {
         "1": {
             "Sr.No.": "1",
             "Company Name": "Honeywell-Project 1",
-            "Project Details": "People counting using mmWave <a href='https://drive.google.com/file/d/1Kff39XRcka1jkefUtj3gnW7HEIRuHCfY/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "People counting using mmWave<br><br> <a href='https://drive.google.com/file/d/1Kff39XRcka1jkefUtj3gnW7HEIRuHCfY/view?usp=sharing'>Detailed document</a>",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Shanmuga R",
             "Selected Students": "Ajj Patel and Urvish Patel (Btech 17)"
@@ -120,7 +120,7 @@ var data = {
         "2": {
             "Sr.No.": "2",
             "Company Name": "Honeywell-Project 2",
-            "Project Details": "Programmable  PLC\n\n<a href ='https://drive.google.com/file/d/1Xtf6uEB1HV98hh09xBeCdV_nIvuFx_er/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Programmable  PLC<br><br><a href ='https://drive.google.com/file/d/1Xtf6uEB1HV98hh09xBeCdV_nIvuFx_er/view?usp=sharing'>Detailed document</a>",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Naran Pindoriya",
             "Selected Students": "Jainendra Jain and Aabila Tharzeen (MTech'19)"
@@ -128,7 +128,7 @@ var data = {
         "3": {
             "Sr.No.": "3",
             "Company Name": "Honeywell-Project 3",
-            "Project Details": "Smart LMS (Learning management system)\n\n<a href='https://drive.google.com/file/d/1PbtIxd9I1kZZ9mshD4hr9p8drXjrmQfh/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Smart LMS (Learning management system)<br><br><a href='https://drive.google.com/file/d/1PbtIxd9I1kZZ9mshD4hr9p8drXjrmQfh/view?usp=sharing'>Detailed document</a>",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Anirban Dasgupta",
             "Selected Students": "Ayush, Aditya Garg and Anup(Btech 17)"
@@ -141,7 +141,7 @@ var data = {
             "Project Details": "Data pipeline",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Shanmuga R",
-            "Selected Students": " Siddharth Soni\n"
+            "Selected Students": " Siddharth Soni<br>"
         },
         "5": {
             "Sr.No.": "5",
@@ -149,7 +149,7 @@ var data = {
             "Project Details": "Research and solve problems that could occur while running deep learning application on low-end PC",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Shanmuga R",
-            "Selected Students": "Viraj Shah (BTech'18)\n"
+            "Selected Students": "Viraj Shah (BTech'18)<br>"
         },
         "6": {
             "Sr.No.": "6",
@@ -157,7 +157,7 @@ var data = {
             "Project Details": "Create new model and enhance our existing person re-identification system",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof.Shanmuga R",
-            "Selected Students": "Prasad Athave and Dhyey Jani\n"
+            "Selected Students": "Prasad Athave and Dhyey Jani<br>"
         },
         "7": {
             "Sr.No.": "7",
@@ -165,7 +165,7 @@ var data = {
             "Project Details": "Create a data visualization application for streaming data",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Shanmuga R",
-            "Selected Students": "Rahul Manusmare (Mtech'18)\n"
+            "Selected Students": "Rahul Manusmare (Mtech'18)<br>"
         },
         "8": {
             "Sr.No.": "8",
@@ -178,7 +178,7 @@ var data = {
         "9": {
             "Sr.No.": "9",
             "Company Name": "DP Pulveriser-Project 2",
-            "Project Details": "Optimization and CFD of Centrifugal Wheel to be used in an Air Classifier\n",
+            "Project Details": "Optimization and CFD of Centrifugal Wheel to be used in an Air Classifier<br>",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Ramakrishna",
             "Selected Students": "No one selected"
@@ -252,7 +252,7 @@ var data = {
         "1": {
             "Sr.No.": "1",
             "Company Name": "Honeywell -Project 1",
-            "Project Details": "PERCEPTIBLE SENSING INTERFACE PLATFORM TO EASE EDGE ANALYTICS\n  <a href=' https://drive.google.com/file/d/1WSpvMOZBx13BnIQT_Kn9C0WqJaN6u0dw/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "PERCEPTIBLE SENSING INTERFACE PLATFORM TO EASE EDGE ANALYTICS<br>  <a href=' https://drive.google.com/file/d/1WSpvMOZBx13BnIQT_Kn9C0WqJaN6u0dw/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "Engg mechanics, Strength of materials, Machine design, Reliability, MS Excel, Matlab (optional)",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project ",
             "Faculty Mentor": "Prof. Ravi Sastri Ayyagari",
@@ -261,7 +261,7 @@ var data = {
         "2": {
             "Sr.No.": "2",
             "Company Name": "Honeywell -Project 2",
-            "Project Details": "P&ID Scanning \n <a href='https://drive.google.com/file/d/1Mli9iekwAm73WBLzsHqM-dyIRAIHcuUO/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "P&ID Scanning <br> <a href='https://drive.google.com/file/d/1Mli9iekwAm73WBLzsHqM-dyIRAIHcuUO/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "Image Processing, Python, Machine learning algorithms, OCR.",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project",
             "Faculty Mentor": "Prof. Shanmuga R",
@@ -270,7 +270,7 @@ var data = {
         "3": {
             "Sr.No.": "3",
             "Company Name": "Honeywell -Project 3",
-            "Project Details": "Platform to enable plug and play capability to all identified digital output sensor and edge analytics.\n <a href='https://drive.google.com/file/d/1kb2RhIXjDh1ba4P4ftHK043yenlYndil/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Platform to enable plug and play capability to all identified digital output sensor and edge analytics.<br> <a href='https://drive.google.com/file/d/1kb2RhIXjDh1ba4P4ftHK043yenlYndil/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "embedded C, Middleware and inclination to hardware design",
             "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project ",
             "Faculty Mentor": "Prof. Sameer G Kulkarn",
@@ -279,7 +279,7 @@ var data = {
         "4": {
             "Sr.No.": "4",
             "Company Name": "Hero Electric Vehicles",
-            "Project Details": "Increase the efficiency of BLDC Hub Motor from the current 80% to the required 92-95%.\n- The current Peak power used is 1 kW / 1.5 kW. For further development, the company wants to go for 2.0 kW and above to get high speed.",
+            "Project Details": "Increase the efficiency of BLDC Hub Motor from the current 80% to the required 92-95%.<br>- The current Peak power used is 1 kW / 1.5 kW. For further development, the company wants to go for 2.0 kW and above to get high speed.",
             "Skills Required": "-",
             "Incentives": "Certificate",
             "Faculty Mentor": "Prof. Ragavan K",
@@ -288,9 +288,9 @@ var data = {
         "5": {
             "Sr.No.": "5",
             "Company Name": "ITC-Project 1",
-            "Project Details": "Development of low cost drip irrigation system for sustaining small farmer’s profitability.<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Development of low cost drip irrigation system for sustaining small farmer’s profitability.<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n ",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br> ",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
@@ -298,9 +298,9 @@ var data = {
             "Sr.No.": "6",
 
             "Company Name": "ITC-Project 2",
-            "Project Details": "Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.\n\n<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
@@ -309,7 +309,7 @@ var data = {
             "Company Name": "ITC-Project 3",
             "Project Details": "i-SMART Research Scholar - AI based tool<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         
@@ -319,34 +319,34 @@ var data = {
             "Sr.No.": "8",
 
             "Company Name": "ITC-Project 4",
-            "Project Details": "Smart Drones for monitoring people on factory campus\n\n<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Smart Drones for monitoring people on factory campus<br><br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "Prof. Madhu Vadali",
             "Selected Students": "TBD"
         },
         "9": {
             "Sr.No.": "9",
             "Company Name": "ITC-Project 5",
-            "Project Details": "Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics\n\n<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics<br><br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "Prof. Sriharitha Rowthu",
             "Selected Students": "TBD"
         },
         "10": {
             "Sr.No.": "10",
             "Company Name": "ITC-Project 6",
-            "Project Details": "Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)\n\n<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)<br><br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
-            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
+            "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final <br>solution provided by the selected <br>team/individual. (To be decided by ITC scientists)<br><br>",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
         "11": {
             "Sr.No.": "11",
             "Company Name": "Intersect IQ-Project 1",
-            "Project Details": "Vehical Reversing\n <a href='https://drive.google.com/file/d/1s8NzPzNOBuIY35ubpJ5woE2zCfgvhRpl/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Vehical Reversing<br> <a href='https://drive.google.com/file/d/1s8NzPzNOBuIY35ubpJ5woE2zCfgvhRpl/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "Computer Vision, Edge Analytics, Edge Alerting, Jetson/Raspberry, DeepStream, Python/C, Object Detection, Human Detection.",
             "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Shanmuganathan Raman",
@@ -355,7 +355,7 @@ var data = {
         "12": {
             "Sr.No.": "12",
             "Company Name": "Intersect IQ-Project 2",
-            "Project Details": "Unruly/Aggressive Behavior of Drivers:\n <a href='https://drive.google.com/file/d/10PpwtmUQ_B9b4F15lNGqQH7Mf3xx2_Hy/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Unruly/Aggressive Behavior of Drivers:<br> <a href='https://drive.google.com/file/d/10PpwtmUQ_B9b4F15lNGqQH7Mf3xx2_Hy/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "Computer Vision, OpenPose Edge Analytics, Edge Alerting, Jetson/Raspberry, DeepStream, Python/C, Human Detection, OpenPose, Speech to text, Sentiment Analysis..",
             "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Krishna Miyapuram",
@@ -364,7 +364,7 @@ var data = {
         "13": {
             "Sr.No.": "13",
             "Company Name": "Intersect IQ-Project 3",
-            "Project Details": "Gas Leakage Detection\n <a href='https://drive.google.com/file/d/1ZMNKiEuFnIlG0g6IOneAJJ8T2brFtvSR/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Gas Leakage Detection<br> <a href='https://drive.google.com/file/d/1ZMNKiEuFnIlG0g6IOneAJJ8T2brFtvSR/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
             "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Arup Lal Chakraborty",
@@ -373,7 +373,7 @@ var data = {
         "14": {
             "Sr.No.": "14",
             "Company Name": "Intersect IQ-Project 4",
-            "Project Details": "Arc Flash: Early Detection  \n <a href='https://drive.google.com/file/d/1w5k1zeNnrgYAEEmG4h23-lZJbxRoqJFz/view?usp=sharing'> Detailed document</a>",
+            "Project Details": "Arc Flash: Early Detection  <br> <a href='https://drive.google.com/file/d/1w5k1zeNnrgYAEEmG4h23-lZJbxRoqJFz/view?usp=sharing'> Detailed document</a>",
             "Skills Required": "Arc fault detector (AFD); Electrical fire; High-frequency energy; Current variation; Weighted least squares support vector machine.",
             "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Naran Pindoriya",
@@ -382,7 +382,7 @@ var data = {
         "15": {
             "Sr.No.": "15",
             "Company Name": "Intersect IQ-Project 5",
-            "Project Details": "Arch Flash Prediction\n<a href='https://drive.google.com/file/d/1GrXbc0185N6IeCkyLQzkAQD44zDctq_I/view?usp=sharing'>Detailed document</a> ",
+            "Project Details": "Arch Flash Prediction<br><a href='https://drive.google.com/file/d/1GrXbc0185N6IeCkyLQzkAQD44zDctq_I/view?usp=sharing'>Detailed document</a> ",
             "Skills Required": "Trip Units , Circuit Breakers Analytics, Waveform, Electrical panel",
             "Incentives": "Internship Opportnunity + Certificate + Mini Super Computers by NVIDIA & Intel will be dispatched to institute for the need of the projects by the company",
             "Faculty Mentor": "Prof. Naran Pindoriya",
@@ -391,7 +391,7 @@ var data = {
         "16": {
             "Sr.No.": "16",
             "Company Name": "Dp Pulveriser",
-            "Project Details": "Development of the Fluidized Bed Jet Mill\n\n <a href='https://drive.google.com/file/d/1cKWt2pP3y94-MRwVqMQ1-iwWsSOGn0Lo/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Development of the Fluidized Bed Jet Mill<br><br> <a href='https://drive.google.com/file/d/1cKWt2pP3y94-MRwVqMQ1-iwWsSOGn0Lo/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
             "Incentives": "Certificate + Monetary reward of 8-10K(per team) on successful completion of the project + Internship opportunity",
             "Faculty Mentor": "Prof. Uddipta Ghosh",
@@ -436,7 +436,7 @@ var data = {
         "21": {
             "Sr.No.": "21",
             "Company Name": "Ashai Glass",
-            "Project Details": "TiO2 thin films by chemical vapor deposition\n <a href='https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "TiO2 thin films by chemical vapor deposition<br> <a href='https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
             "Incentives": "Certificate + Monthy stipend of 25K(team).Chance of internship at their place is very high.",
             "Faculty Mentor": "Prof. Gopinadhan Kalon and Prof. Vinod Narayanan",
@@ -445,7 +445,7 @@ var data = {
         "22": {
             "Sr.No.": "22",
             "Company Name": "Optimized solutions limited-Project 1",
-            "Project Details": "Board bring up and generic interfaces codes development over \nAltera Cyclone V series FPGA SoC - \n\n<a href='https://drive.google.com/file/d/1BHzoTSpWMumu5KnS9dQR5J0keO9pFLNC/view'> Detailed document</a>",
+            "Project Details": "Board bring up and generic interfaces codes development over <br>Altera Cyclone V series FPGA SoC - <br><br><a href='https://drive.google.com/file/d/1BHzoTSpWMumu5KnS9dQR5J0keO9pFLNC/view'> Detailed document</a>",
             "Skills Required": "Verilog/VHDL,Working with FPGA,Python",
             "Incentives": "Certificate + Monetary reward of 25K(per team) on successful completion of the project + Intership offer",
             "Faculty Mentor": "Prof. Joycee Mekie",
@@ -455,7 +455,7 @@ var data = {
         "23": {
             "Sr.No.": "23",
             "Company Name": "Optimized solutions limited-Project 2",
-            "Project Details": "Board bring up and generic interfaces codes development \nover Microsemi ProASIC 3 - \n\n<a href='https://drive.google.com/file/d/1rMkCZFhUJ8NLggmhMppHC7le3t7d5Xy3/view'>Detailed document</a>",
+            "Project Details": "Board bring up and generic interfaces codes development <br>over Microsemi ProASIC 3 - <br><br><a href='https://drive.google.com/file/d/1rMkCZFhUJ8NLggmhMppHC7le3t7d5Xy3/view'>Detailed document</a>",
             "Skills Required": "Verilog and FPGA",
             "Incentives": "Certificate + Monetary reward of 25K(per team) on successful completion of the project + Intership offer",
             "Faculty Mentor": "Prof. Joycee Mekie",
@@ -465,7 +465,7 @@ var data = {
         "24": {
             "Sr.No.": "24",
             "Company Name": "Optimized solutions limited-Project 3",
-            "Project Details": "Generic camera interface software development for imaging solution \nwith Arm Cortex M7 series STM32 controller - \n\n<a href='https://drive.google.com/file/d/1sENjSQPxoMLiU4S4ovv8W-8pg1XLTXNQ/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Generic camera interface software development for imaging solution <br>with Arm Cortex M7 series STM32 controller - <br><br><a href='https://drive.google.com/file/d/1sENjSQPxoMLiU4S4ovv8W-8pg1XLTXNQ/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "FPGA,Verilog/VHDL,Computer Vision,Python",
             "Incentives": "Certificate + Monetary reward of 25K(per team) on successful completion of the project + Intership offer",
             "Faculty Mentor": "Prof. Shanmuganathan Raman",
@@ -475,7 +475,7 @@ var data = {
         "25": {
             "Sr.No.": "25",
             "Company Name": "Harsha Engineering-Project 1",
-            "Project Details": "Solution to focus on Noise level reduction up to 75 db. To have safe and pleasant work environment\n\n<a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Solution to focus on Noise level reduction up to 75 db. To have safe and pleasant work environment<br><br><a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.                              ",
             "Faculty Mentor": "Not yet confirmed",
@@ -485,7 +485,7 @@ var data = {
         "26": {
             "Sr.No.": "26",
             "Company Name": "Harsha Engineering-Project 2",
-            "Project Details": "Finite element analysis: Cold forming operation of low carbon steel to predict output result <a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a>\n",
+            "Project Details": "Finite element analysis: Cold forming operation of low carbon steel to predict output result <a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a><br>",
             "Skills Required": "-",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.",
             "Faculty Mentor": "Prof. Amit Arora ",
@@ -495,7 +495,7 @@ var data = {
         "27": {
             "Sr.No.": "27",
             "Company Name": "Harsha Engineering-Project 3",
-            "Project Details": "Finite element analysis: Blanking / Piercing distortion\n\n <a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a> ",
+            "Project Details": "Finite element analysis: Blanking / Piercing distortion<br><br> <a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a> ",
             "Skills Required": "-",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.",
             "Faculty Mentor": "Prof. Amit Arora ",
@@ -504,7 +504,7 @@ var data = {
         "28": {
             "Sr.No.": "28",
             "Company Name": "Heat Chem",
-            "Project Details": "Design computational models for chiller with thermal and fluid analysis.\n <a href='https://drive.google.com/file/d/19RGC1_hn0w7YuuZVR94qkKS31qBQOV8G/view?usp=sharing'>Detailed document</a>",
+            "Project Details": "Design computational models for chiller with thermal and fluid analysis.<br> <a href='https://drive.google.com/file/d/19RGC1_hn0w7YuuZVR94qkKS31qBQOV8G/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "CAD, CFD, FEA",
             "Incentives": "Rs 7k per student + Potential Internship",
             "Faculty Mentor": "Prof. Jaichander Swaminathan",
@@ -532,7 +532,7 @@ var data = {
         "31": {
             "Sr.No.": "31",
             "Company Name": "Lexus Softmac",
-            "Project Details": "There will be three components of the project to be done by one team. Here are the details of the first component:\n- Programming two light control boards to switch various LED series\n- Two boards will be given, one with the LEDs and one without them\n- All the required hardware will be delivered to the team as and when required\n- The details of the remaining components of the project will be given once this elementary problem statement is solved.\n<a href='https://docs.google.com/document/d/1sTde_-k7CaKf6QZuc-z5qIqkAYyh-slOEY-DUlmQmqQ/edit?usp=sharing'>Detailed document</a>",
+            "Project Details": "There will be three components of the project to be done by one team. Here are the details of the first component:<br>- Programming two light control boards to switch various LED series<br>- Two boards will be given, one with the LEDs and one without them<br>- All the required hardware will be delivered to the team as and when required<br>- The details of the remaining components of the project will be given once this elementary problem statement is solved.<br><a href='https://docs.google.com/document/d/1sTde_-k7CaKf6QZuc-z5qIqkAYyh-slOEY-DUlmQmqQ/edit?usp=sharing'>Detailed document</a>",
             "Skills Required": "Electronic devices",
             "Incentives": "Monetary prize of 1Lakh(per team) on successful completion of the project, might also look at offering internship",
             "Faculty Mentor": "Prof. Nihar Mohpatra",
