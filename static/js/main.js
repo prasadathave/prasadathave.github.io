@@ -288,8 +288,8 @@ var data = {
         "5": {
             "Sr.No.": "5",
             "Company Name": "ITC-Project 1",
-            "Project Details": "Development of low cost drip irrigation system for sustaining small farmer’s profitability.",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
+            "Project Details": "Development of low cost drip irrigation system for sustaining small farmer’s profitability.<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "-",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n ",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
@@ -298,8 +298,8 @@ var data = {
             "Sr.No.": "6",
 
             "Company Name": "ITC-Project 2",
-            "Project Details": "Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
+            "Project Details": "Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.\n\n<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "-",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
@@ -307,8 +307,8 @@ var data = {
         "7": {
             "Sr.No.": "7",
             "Company Name": "ITC-Project 3",
-            "Project Details": "i-SMART Research Scholar - AI based tool",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
+            "Project Details": "i-SMART Research Scholar - AI based tool<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "-",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
@@ -319,8 +319,8 @@ var data = {
             "Sr.No.": "8",
 
             "Company Name": "ITC-Project 4",
-            "Project Details": "Smart Drones for monitoring people on factory campus",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
+            "Project Details": "Smart Drones for monitoring people on factory campus\n\n<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "-",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "Prof. Madhu Vadali",
             "Selected Students": "TBD"
@@ -328,8 +328,8 @@ var data = {
         "9": {
             "Sr.No.": "9",
             "Company Name": "ITC-Project 5",
-            "Project Details": "Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
+            "Project Details": "Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics\n\n<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "-",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "Prof. Sriharitha Rowthu",
             "Selected Students": "TBD"
@@ -337,8 +337,8 @@ var data = {
         "10": {
             "Sr.No.": "10",
             "Company Name": "ITC-Project 6",
-            "Project Details": "Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Document containing all details</a>",
+            "Project Details": "Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)\n\n<a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "-",
             "Incentives": "Certificate + Monetary reward upto 1Lakh (per project) depending on the final \nsolution provided by the selected \nteam/individual. (To be decided by ITC scientists)\n\n",
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
@@ -475,8 +475,8 @@ var data = {
         "25": {
             "Sr.No.": "25",
             "Company Name": "Harsha Engineering-Project 1",
-            "Project Details": "Solution to focus on Noise level reduction up to 75 db. To have safe and pleasant work environment                                                                                                               ",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Link to the document containing details</a>",
+            "Project Details": "Solution to focus on Noise level reduction up to 75 db. To have safe and pleasant work environment\n\n<a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "-",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.                              ",
             "Faculty Mentor": "Not yet confirmed",
             "Selected Students": "No one was selected "
@@ -485,8 +485,8 @@ var data = {
         "26": {
             "Sr.No.": "26",
             "Company Name": "Harsha Engineering-Project 2",
-            "Project Details": "Finite element analysis: Cold forming operation of low carbon steel to predict output result                                                                                                                                 \n",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Link to the document containing details</a>",
+            "Project Details": "Finite element analysis: Cold forming operation of low carbon steel to predict output result <a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a>\n",
+            "Skills Required": "-",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.",
             "Faculty Mentor": "Prof. Amit Arora ",
             "Selected Students": "No one was selected "
@@ -495,8 +495,8 @@ var data = {
         "27": {
             "Sr.No.": "27",
             "Company Name": "Harsha Engineering-Project 3",
-            "Project Details": "Finite element analysis: Blanking / Piercing distortion  ",
-            "Skills Required": "<a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Link to the document containing details</a>",
+            "Project Details": "Finite element analysis: Blanking / Piercing distortion\n\n <a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a> ",
+            "Skills Required": "-",
             "Incentives": "The team would be competing with other local universities, the winning team will get an internship offer + Monetary reward+ Certificate.",
             "Faculty Mentor": "Prof. Amit Arora ",
             "Selected Students": "Yasham Mundada(Dropped out)"
