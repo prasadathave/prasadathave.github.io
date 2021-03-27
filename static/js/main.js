@@ -278,12 +278,13 @@ var data = {
         },
         "4": {
             "Sr.No.": "4",
-            "Company Name": "Hero Electric Vehicles",
-            "Project Details": "Increase the efficiency of BLDC Hub Motor from the current 80% to the required 92-95%.<br>- The current Peak power used is 1 kW / 1.5 kW. For further development, the company wants to go for 2.0 kW and above to get high speed.",
-            "Skills Required": "-",
-            "Incentives": "Certificate",
-            "Faculty Mentor": "Prof. Ragavan K",
-            "Selected Students": "Rachna Panwar, Kaustuv Singh and Javaid Reshi "
+            "Company Name": "Lexus Softmac",
+            "Project Details": "There will be three components of the project to be done by one team. Here are the details of the first component:<br>- Programming two light control boards to switch various LED series<br>- Two boards will be given, one with the LEDs and one without them<br>- All the required hardware will be delivered to the team as and when required<br>- The details of the remaining components of the project will be given once this elementary problem statement is solved.<br><a href='https://docs.google.com/document/d/1sTde_-k7CaKf6QZuc-z5qIqkAYyh-slOEY-DUlmQmqQ/edit?usp=sharing'>Detailed document</a>",
+            "Skills Required": "Electronic devices",
+            "Incentives": "Monetary prize of 1Lakh(per team) on successful completion of the project, might also look at offering internship",
+            "Faculty Mentor": "Prof. Nihar Mohpatra",
+            "Selected Students": "Aditya P and Aparna Singh"
+
         },
         "5": {
             "Sr.No.": "5",
@@ -441,6 +442,7 @@ var data = {
             "Incentives": "Certificate + Monthy stipend of 25K(team).Chance of internship at their place is very high.",
             "Faculty Mentor": "Prof. Gopinadhan Kalon and Prof. Vinod Narayanan",
             "Selected Students": "Aditi Gera, Bhavya Gupta and Maitreya Thakur"
+
         },
         "22": {
             "Sr.No.": "22",
@@ -531,13 +533,14 @@ var data = {
         },
         "31": {
             "Sr.No.": "31",
-            "Company Name": "Lexus Softmac",
-            "Project Details": "There will be three components of the project to be done by one team. Here are the details of the first component:<br>- Programming two light control boards to switch various LED series<br>- Two boards will be given, one with the LEDs and one without them<br>- All the required hardware will be delivered to the team as and when required<br>- The details of the remaining components of the project will be given once this elementary problem statement is solved.<br><a href='https://docs.google.com/document/d/1sTde_-k7CaKf6QZuc-z5qIqkAYyh-slOEY-DUlmQmqQ/edit?usp=sharing'>Detailed document</a>",
-            "Skills Required": "Electronic devices",
-            "Incentives": "Monetary prize of 1Lakh(per team) on successful completion of the project, might also look at offering internship",
-            "Faculty Mentor": "Prof. Nihar Mohpatra",
-            "Selected Students": "Aditya P and Aparna Singh"
+            "Company Name": "Hero Electric Vehicles",
+            "Project Details": "Increase the efficiency of BLDC Hub Motor from the current 80% to the required 92-95%.<br>- The current Peak power used is 1 kW / 1.5 kW. For further development, the company wants to go for 2.0 kW and above to get high speed.",
+            "Skills Required": "-",
+            "Incentives": "Certificate",
+            "Faculty Mentor": "Prof. Ragavan K",
+            "Selected Students": "Rachna Panwar, Kaustuv Singh and Javaid Reshi "
 
+         
         }
     }
 };
