@@ -276,8 +276,29 @@ var data = {
             "Faculty Mentor": "Prof. Sameer G Kulkarn",
             "Selected Students": "No one was selected "
         },
-        "4": {
+        "4":{
             "Sr.No.": "4",
+            "Company Name": "Honeywell -Project 4",
+            "Project Details": "Citizen Grievences System <br> <a href='https://drive.google.com/file/d/1CftClGMm4heUrZ6QkeVnkCAFYRvSw0k8/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "Mobile App, web services, ML and basic NLP techniques",
+            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project ",
+            "Faculty Mentor": "Prof. Sameer G Kulkarn",
+            "Selected Students": "Devvrat Joshi, Janvi Thakkar, Siddharth Soni"
+        },
+
+        "5":{
+            "Sr.No.": "5",
+            "Company Name": "Honeywell -Project 5",
+            "Project Details": "Automate Floor Plan creation and pathloss Calculation<br> <a href='https://drive.google.com/file/d/1QhC3kL9My5Vi_sr1KFLBbPT7OXrEdMQU/view?usp=sharing'>Detailed document</a>",
+            "Skills Required": "Machine Learning Csharp/Java/Android",
+            "Incentives": "Certificate + Monetary reward of 20K(individual) on successful completion of the project ",
+            "Faculty Mentor": "Prof. Sameer G Kulkarn",
+            "Selected Students": "Dhruvin Patel, Hetvi Shastri, Harshit Kumar"
+
+        },
+
+        "6": {
+            "Sr.No.": "6",
             "Company Name": "Lexus Softmac",
             "Project Details": "There will be three components of the project to be done by one team. Here are the details of the first component:<br>- Programming two light control boards to switch various LED series<br>- Two boards will be given, one with the LEDs and one without them<br>- All the required hardware will be delivered to the team as and when required<br>- The details of the remaining components of the project will be given once this elementary problem statement is solved.<br><a href='https://docs.google.com/document/d/1sTde_-k7CaKf6QZuc-z5qIqkAYyh-slOEY-DUlmQmqQ/edit?usp=sharing'>Detailed document</a>",
             "Skills Required": "Electronic devices",
@@ -286,8 +307,8 @@ var data = {
             "Selected Students": "Aditya P and Aparna Singh"
 
         },
-        "5": {
-            "Sr.No.": "5",
+        "7": {
+            "Sr.No.": "7",
             "Company Name": "ITC-Project 1",
             "Project Details": "Development of low cost drip irrigation system for sustaining small farmer’s profitability.<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
@@ -295,8 +316,8 @@ var data = {
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
-        "6": {
-            "Sr.No.": "6",
+        "8": {
+            "Sr.No.": "8",
 
             "Company Name": "ITC-Project 2",
             "Project Details": "Develop sensors and smart nutrient delivery system (Nanotechnology based input) for reducing the input costs with enhanced farm productivity along with quality.<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
@@ -305,8 +326,8 @@ var data = {
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
-        "7": {
-            "Sr.No.": "7",
+        "9": {
+            "Sr.No.": "9",
             "Company Name": "ITC-Project 3",
             "Project Details": "i-SMART Research Scholar - AI based tool<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
@@ -316,8 +337,8 @@ var data = {
         
         },
 
-        "8": {
-            "Sr.No.": "8",
+        "10": {
+            "Sr.No.": "10",
 
             "Company Name": "ITC-Project 4",
             "Project Details": "Smart Drones for monitoring people on factory campus<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
@@ -326,8 +347,8 @@ var data = {
             "Faculty Mentor": "Prof. Madhu Vadali",
             "Selected Students": "TBD"
         },
-        "9": {
-            "Sr.No.": "9",
+        "11": {
+            "Sr.No.": "11",
             "Company Name": "ITC-Project 5",
             "Project Details": "Alternative packaging solutions for foods & other packaged goods to increasesustainability & regulatory compliance in the wake of restrictions on plastics<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
@@ -335,8 +356,8 @@ var data = {
             "Faculty Mentor": "Prof. Sriharitha Rowthu",
             "Selected Students": "TBD"
         },
-        "10": {
-            "Sr.No.": "10",
+        "12": {
+            "Sr.No.": "12",
             "Company Name": "ITC-Project 6",
             "Project Details": "Reduction in Quality testing time for key Raw Material \u2013Packaging Material (RM/PM)<br><a href='https://drive.google.com/file/d/1GJZ-jnRpPeGNRWOA_UEzdajv8t_g_zVr/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
@@ -344,8 +365,8 @@ var data = {
             "Faculty Mentor": "-",
             "Selected Students": "TBD"
         },
-        "11": {
-            "Sr.No.": "11",
+        "13": {
+            "Sr.No.": "13",
             "Company Name": "Intersect IQ-Project 1",
             "Project Details": "Vehical Reversing<br> <a href='https://drive.google.com/file/d/1s8NzPzNOBuIY35ubpJ5woE2zCfgvhRpl/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "Computer Vision, Edge Analytics, Edge Alerting, Jetson/Raspberry, DeepStream, Python/C, Object Detection, Human Detection.",
@@ -353,8 +374,8 @@ var data = {
             "Faculty Mentor": "Prof. Shanmuganathan Raman",
             "Selected Students": "Jitender Kumar and Ajinkya Pawar"
         },
-        "12": {
-            "Sr.No.": "12",
+        "14": {
+            "Sr.No.": "14",
             "Company Name": "Intersect IQ-Project 2",
             "Project Details": "Unruly/Aggressive Behavior of Drivers:<br> <a href='https://drive.google.com/file/d/10PpwtmUQ_B9b4F15lNGqQH7Mf3xx2_Hy/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "Computer Vision, OpenPose Edge Analytics, Edge Alerting, Jetson/Raspberry, DeepStream, Python/C, Human Detection, OpenPose, Speech to text, Sentiment Analysis..",
@@ -362,8 +383,8 @@ var data = {
             "Faculty Mentor": "Prof. Krishna Miyapuram",
             "Selected Students": "Gautam Vashishtha, Anurag Kurle and Yash Hiren More"
         },
-        "13": {
-            "Sr.No.": "13",
+        "15": {
+            "Sr.No.": "15",
             "Company Name": "Intersect IQ-Project 3",
             "Project Details": "Gas Leakage Detection<br> <a href='https://drive.google.com/file/d/1ZMNKiEuFnIlG0g6IOneAJJ8T2brFtvSR/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
@@ -371,8 +392,8 @@ var data = {
             "Faculty Mentor": "Prof. Arup Lal Chakraborty",
             "Selected Students": "Gaurav Sharma, Pulkit Jain and Deep Dave"
         },
-        "14": {
-            "Sr.No.": "14",
+        "16": {
+            "Sr.No.": "16",
             "Company Name": "Intersect IQ-Project 4",
             "Project Details": "Arc Flash: Early Detection  <br> <a href='https://drive.google.com/file/d/1w5k1zeNnrgYAEEmG4h23-lZJbxRoqJFz/view?usp=sharing'> Detailed document</a>",
             "Skills Required": "Arc fault detector (AFD); Electrical fire; High-frequency energy; Current variation; Weighted least squares support vector machine.",
@@ -380,8 +401,8 @@ var data = {
             "Faculty Mentor": "Prof. Naran Pindoriya",
             "Selected Students": "No one was selected "
         },
-        "15": {
-            "Sr.No.": "15",
+        "17": {
+            "Sr.No.": "17",
             "Company Name": "Intersect IQ-Project 5",
             "Project Details": "Arch Flash Prediction<br><a href='https://drive.google.com/file/d/1GrXbc0185N6IeCkyLQzkAQD44zDctq_I/view?usp=sharing'>Detailed document</a> ",
             "Skills Required": "Trip Units , Circuit Breakers Analytics, Waveform, Electrical panel",
@@ -389,8 +410,8 @@ var data = {
             "Faculty Mentor": "Prof. Naran Pindoriya",
             "Selected Students": "No one was selected "
         },
-        "16": {
-            "Sr.No.": "16",
+        "18": {
+            "Sr.No.": "18",
             "Company Name": "Dp Pulveriser",
             "Project Details": "Development of the Fluidized Bed Jet Mill<br> <a href='https://drive.google.com/file/d/1cKWt2pP3y94-MRwVqMQ1-iwWsSOGn0Lo/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
@@ -398,8 +419,8 @@ var data = {
             "Faculty Mentor": "Prof. Uddipta Ghosh",
             "Selected Students": "Chaitanya Guntoorkar, Sayan Biswas and Soham Shirodkar"
         },
-        "17": {
-            "Sr.No.": "17",
+        "19": {
+            "Sr.No.": "19",
             "Company Name": "Trishasol",
             "Project Details": "Building power electronic inverter for rooftop solar system",
             "Skills Required": "Background on Power Electronics ",
@@ -407,8 +428,8 @@ var data = {
             "Faculty Mentor": "Prof. Ragavan K",
             "Selected Students": "No one was selected "
         },
-        "18": {
-            "Sr.No.": "18",
+        "20": {
+            "Sr.No.": "20",
             "Company Name": "Hilti International-Project 1",
             "Project Details": "Retrofitting / rehabilitation of old buildings",
             "Skills Required": "Project open for Civil Engineering",
@@ -416,8 +437,8 @@ var data = {
             "Faculty Mentor": "Prof. Manish Kumar ",
             "Selected Students": "Dhruvi Gondalia, Shubhang Trivedi and Vaibhav Sharma "
         },
-        "19": {
-            "Sr.No.": "19",
+        "21": {
+            "Sr.No.": "21",
             "Company Name": "Hilti International-Project 2",
             "Project Details": "Seismic \u2013 earth quake prone connections",
             "Skills Required": "Project open for Civil Engineering",
@@ -425,8 +446,8 @@ var data = {
             "Faculty Mentor": "Prof. Manish Kumar",
             "Selected Students": "No one was selected "
         },
-        "20": {
-            "Sr.No.": "20",
+        "22": {
+            "Sr.No.": "22",
             "Company Name": "Hilti International-Project 3",
             "Project Details": "Data Analytics based for digital marketing and Automation.",
             "Skills Required": "Project open for Civil Engineering",
@@ -434,8 +455,8 @@ var data = {
             "Faculty Mentor": "Prof. Anirban Dasgupta ",
             "Selected Students": "Aishwarya Malve and Yashi Gaur"
         },
-        "21": {
-            "Sr.No.": "21",
+        "23": {
+            "Sr.No.": "23",
             "Company Name": "Ashai Glass",
             "Project Details": "TiO2 thin films by chemical vapor deposition<br> <a href='https://drive.google.com/file/d/1mK-RN1SHHvka-kd8bl-Xq9X1PGdox-a2/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
@@ -444,8 +465,8 @@ var data = {
             "Selected Students": "Aditi Gera, Bhavya Gupta and Maitreya Thakur"
 
         },
-        "22": {
-            "Sr.No.": "22",
+        "24": {
+            "Sr.No.": "24",
             "Company Name": "Optimized solutions limited-Project 1",
             "Project Details": "Board bring up and generic interfaces codes development over <br>Altera Cyclone V series FPGA SoC - <br><a href='https://drive.google.com/file/d/1BHzoTSpWMumu5KnS9dQR5J0keO9pFLNC/view'> Detailed document</a>",
             "Skills Required": "Verilog/VHDL,Working with FPGA,Python",
@@ -454,8 +475,8 @@ var data = {
             "Selected Students": "Sai Shubham, Harshit and Aryamann Tomar"
 
         },
-        "23": {
-            "Sr.No.": "23",
+        "25": {
+            "Sr.No.": "25",
             "Company Name": "Optimized solutions limited-Project 2",
             "Project Details": "Board bring up and generic interfaces codes development <br>over Microsemi ProASIC 3 - <br><a href='https://drive.google.com/file/d/1rMkCZFhUJ8NLggmhMppHC7le3t7d5Xy3/view'>Detailed document</a>",
             "Skills Required": "Verilog and FPGA",
@@ -464,8 +485,8 @@ var data = {
             "Selected Students": "Tarun Sharma, Paras and Prashant "
 
         },
-        "24": {
-            "Sr.No.": "24",
+        "26": {
+            "Sr.No.": "26",
             "Company Name": "Optimized solutions limited-Project 3",
             "Project Details": "Generic camera interface software development for imaging solution <br>with Arm Cortex M7 series STM32 controller - <br><a href='https://drive.google.com/file/d/1sENjSQPxoMLiU4S4ovv8W-8pg1XLTXNQ/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "FPGA,Verilog/VHDL,Computer Vision,Python",
@@ -474,8 +495,8 @@ var data = {
             "Selected Students": "Arpita Kabra, Deepika Soni, Pradip Prajapati and Yash Kamble"
 
         },
-        "25": {
-            "Sr.No.": "25",
+        "27": {
+            "Sr.No.": "27",
             "Company Name": "Harsha Engineering-Project 1",
             "Project Details": "Solution to focus on Noise level reduction up to 75 db. To have safe and pleasant work environment<br><a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "-",
@@ -484,8 +505,8 @@ var data = {
             "Selected Students": "No one was selected "
 
         },
-        "26": {
-            "Sr.No.": "26",
+        "28": {
+            "Sr.No.": "28",
             "Company Name": "Harsha Engineering-Project 2",
             "Project Details": "Finite element analysis: Cold forming operation of low carbon steel to predict output result <br><a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a><br>",
             "Skills Required": "-",
@@ -494,8 +515,8 @@ var data = {
             "Selected Students": "No one was selected "
 
         },
-        "27": {
-            "Sr.No.": "27",
+        "29": {
+            "Sr.No.": "29",
             "Company Name": "Harsha Engineering-Project 3",
             "Project Details": "Finite element analysis: Blanking / Piercing distortion<br> <a href='https://drive.google.com/file/d/1R5fOcE7P5E0wnWxYuRVGRjmQbNtfH_my/view?usp=sharing'>Detailed document</a> ",
             "Skills Required": "-",
@@ -503,8 +524,8 @@ var data = {
             "Faculty Mentor": "Prof. Amit Arora ",
             "Selected Students": "Yasham Mundada(Dropped out)"
         },
-        "28": {
-            "Sr.No.": "28",
+        "30": {
+            "Sr.No.": "30",
             "Company Name": "Heat Chem",
             "Project Details": "Design computational models for chiller with thermal and fluid analysis.<br> <a href='https://drive.google.com/file/d/19RGC1_hn0w7YuuZVR94qkKS31qBQOV8G/view?usp=sharing'>Detailed document</a>",
             "Skills Required": "CAD, CFD, FEA",
@@ -512,9 +533,10 @@ var data = {
             "Faculty Mentor": "Prof. Jaichander Swaminathan",
             "Selected Students": "Pooja Gupta, Aditya Natu and Paritosh Kavra "
         },
-        "29": {
+
+        "31": {
             
-            "Sr.No.": "29",
+            "Sr.No.": "31",
             "Company Name": "ASITE-Project 1",
             "Project Details": "cBIM: Pinning of 3D models (Arc GIS/KML via GML): Ability to retrieve positioning data from model (with the use of GIS) and pin the 3D model.",
             "Skills Required": "-",
@@ -522,8 +544,8 @@ var data = {
             "Faculty Mentor": "Prof. Sameer Kulkarni",
             "Selected Students": "Abhiram Geddam, Aditya Pusalkar and Shashwat Jain "
         },
-        "30": {
-            "Sr.No.": "30",
+        "32": {
+            "Sr.No.": "32",
             "Company Name": "ASITE-Project 2",
             "Project Details": "cBIM: Intermediate Service between PDFTron and Hoops Viewer to sync viewpoint of model file.: Utility which can be used to sync viewpoint of 3D model between 2D viewer (PDFTron viewer) and 3D viewer (Hoops Communicator Viewer)",
             "Skills Required": "-",
@@ -531,8 +553,8 @@ var data = {
             "Faculty Mentor": "Prof. Sameer Kulkarni",
             "Selected Students": "Ayush Anand, Shreyshi Singh and Siddhi Pravin Surawar "
         },
-        "31": {
-            "Sr.No.": "31",
+        "33": {
+            "Sr.No.": "33",
             "Company Name": "Hero Electric Vehicles",
             "Project Details": "Increase the efficiency of BLDC Hub Motor from the current 80% to the required 92-95%.<br>- The current Peak power used is 1 kW / 1.5 kW. For further development, the company wants to go for 2.0 kW and above to get high speed.",
             "Skills Required": "-",
