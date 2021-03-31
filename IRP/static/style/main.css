@@ -8,7 +8,7 @@ nav>a{
     font-family: 'Roboto Slab', serif;
 }
 .name{
-    font-size: 30px;
+    font-size: 60px;
     display: inline-flex;
     /* border: 2px solid red; */
     padding: 0;
@@ -210,6 +210,9 @@ nav>a{
     .card{
         max-height: 500px;
     }
+    .name {
+        font-size: 50px;
+    }
 }
 
 @media (max-width: 800px){
@@ -236,7 +239,7 @@ nav>a{
         width: 80px;
     }
     .name{
-        font-size: 50px;
+        font-size: 30px;
     }
     .table{
         font-size: 14px;
@@ -259,7 +262,7 @@ nav>a{
         width: 70px;
     }
     .name{
-        font-size: 45px;
+        font-size: 25px;
     }
     .cont h2{
         font-size: 30px;
@@ -313,7 +316,7 @@ nav>a{
         width: 50px;
     }
     .name{
-        font-size: 33px;
+        font-size: 20px;
     }
     .cont h2{
         font-size: 22px;
@@ -354,7 +357,7 @@ nav>a{
         width: 40px;
     }
     .name{
-        font-size: 23px;
+        font-size: 17px;
     }
     .cont h2{
         font-size: 18px;
