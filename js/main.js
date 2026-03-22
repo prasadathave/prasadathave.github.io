@@ -5,7 +5,9 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   /* 1. AOS */
-  AOS.init({ duration: 650, easing: 'ease-out-cubic', once: true, offset: 50 });
+  if (typeof AOS !== 'undefined') {
+    AOS.init({ duration: 650, easing: 'ease-out-cubic', once: true, offset: 50 });
+  }
 
   /* 2. Nav scroll */
   const nav = document.getElementById('nav');
@@ -27,6 +29,12 @@ document.addEventListener('DOMContentLoaded', () => {
     burger.classList.remove('open');
     links.classList.remove('open');
   }));
+  document.addEventListener('click', e => {
+    if (links.classList.contains('open') && !nav.contains(e.target)) {
+      burger.classList.remove('open');
+      links.classList.remove('open');
+    }
+  });
 
   /* 4. Smooth scroll */
   document.querySelectorAll('a[href^="#"]').forEach(a => {

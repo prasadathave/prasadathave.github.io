@@ -31,6 +31,18 @@
       </button>
     </div>
   </nav>
+  <script>
+    (function() {
+      var b = document.getElementById('hamburger');
+      var l = document.getElementById('nav-links');
+      if (b && l) {
+        b.addEventListener('click', function() {
+          b.classList.toggle('open');
+          l.classList.toggle('open');
+        });
+      }
+    })();
+  </script>
 
   <!-- HERO -->
   <section class="hero" id="hero">
