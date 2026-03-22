@@ -1,53 +1,556 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="./css/style.css">
-    <title>Home</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prasad Athave — AI Engineer &amp; Systems Architect</title>
+  <meta name="description" content="Prasad Athave — AI Engineer at S45, ex-Barclays, ex-Siemens EDA. Big data pipelines, agentic AI, cloud architecture, Java backends. IIT Gandhinagar.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=IBM+Plex+Mono:wght@300;400;500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <!-- Navigation bar added-->
-    <nav class="navbar navbar-expand-md bg-body-tertiary">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="./index.html">Prasad Athave</a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-              <a class="nav-link" aria-current="page" href="./index.html">Home</a>
-              <a class="nav-link" aria-disabled="true" href="./education.html">Education and experience</a>
-              <a class="nav-link" href="./TalksblogsAndHobbies.html">Talks, Blogs and Hobbies</a>
-              <a class="nav-link" href="./Contactme.html">Contact Me</a>
+
+  <!-- NAV -->
+  <nav class="nav" id="nav">
+    <div class="nav-container">
+      <a href="#hero" class="nav-logo">PA<span class="accent">.</span></a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#expertise" class="nav-link">Expertise</a></li>
+        <li><a href="#experience" class="nav-link">Experience</a></li>
+        <li><a href="#skills" class="nav-link">Skills</a></li>
+        <li><a href="#projects" class="nav-link">Projects</a></li>
+        <li><a href="#talks" class="nav-link">Beyond Code</a></li>
+        <li><a href="#contact" class="nav-link">Contact</a></li>
+      </ul>
+      <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="hero">
+    <div class="hero-bg-orb orb-a"></div>
+    <div class="hero-bg-orb orb-b"></div>
+    <div class="hero-container">
+
+      <div class="hero-text">
+        <div class="hero-eyebrow">
+          <span class="live-dot"></span>
+          Currently building at&nbsp;<a href="#experience" class="eyebrow-link">S45 — AI-native Investment Bank</a>
+        </div>
+
+        <h1 class="hero-h1">
+          I build systems that<br><span class="gradient-text">scale&nbsp;&amp;&nbsp;think.</span>
+        </h1>
+
+        <p class="hero-sub">
+          AI engineer with a track record across <strong>big&nbsp;data&nbsp;pipelines</strong>, <strong>agentic&nbsp;AI&nbsp;systems</strong>,
+          <strong>cloud&nbsp;architecture</strong>, and <strong>high-performance&nbsp;backends</strong>.
+          IIT Gandhinagar · AIR&nbsp;1383 JEE Advanced.
+        </p>
+
+        <div class="pillar-chips">
+          <a href="#pillar-data"  class="pchip pchip-data">⚙️&nbsp; Big Data &amp; Scale</a>
+          <a href="#pillar-ai"   class="pchip pchip-ai">🤖&nbsp; Agentic AI</a>
+          <a href="#pillar-cloud" class="pchip pchip-cloud">☁️&nbsp; Cloud Architecture</a>
+          <a href="#pillar-java"  class="pchip pchip-java">☕&nbsp; Java Expert</a>
+        </div>
+
+        <div class="hero-cta">
+          <a href="#expertise" class="btn btn-primary">See My Work</a>
+          <a href="https://www.linkedin.com/in/prasad-athave-445a0516b/" target="_blank" class="btn btn-ghost">
+            <i class="fa-brands fa-linkedin"></i>&nbsp;Connect
+          </a>
+        </div>
+
+        <div class="hero-creds">
+          <span><i class="fa-solid fa-building-columns"></i>&nbsp;IIT Gandhinagar — B.Tech CSE, CGPA 8.17</span>
+          <span><i class="fa-solid fa-medal"></i>&nbsp;Dean's List · KVPY AIR 406 · JEE AIR 1383</span>
+        </div>
+
+        <div class="cert-strip">
+          <div class="cert-item cert-aws">
+            <i class="fa-brands fa-aws"></i>
+            <div class="cert-text">
+              <span class="cert-name">AWS Certified</span>
+              <span class="cert-level">Cloud Practitioner</span>
+            </div>
+          </div>
+          <div class="cert-divider"></div>
+          <div class="cert-item cert-azure">
+            <i class="fa-solid fa-cloud"></i>
+            <div class="cert-text">
+              <span class="cert-name">Microsoft Azure</span>
+              <span class="cert-level">Administrator AZ-104</span>
+            </div>
+          </div>
+          <div class="cert-divider"></div>
+          <div class="cert-item cert-vault">
+            <i class="fa-brands fa-github"></i>
+            <div class="cert-text">
+              <span class="cert-name">Arctic Code Vault</span>
+              <span class="cert-level">GitHub Contributor</span>
             </div>
           </div>
         </div>
-      </nav>
+      </div>
 
+      <div class="hero-photo-col">
+        <div class="photo-wrap">
+          <img src="photos/myphoto.jpeg" alt="Prasad Athave"
+               onerror="this.onerror=null;this.src='photos/myphoto.png'">
+        </div>
+      </div>
 
-      <div class="container">
-        <div class="elem col-lg-6 col-md-12 col-sm-12">
-            <img src="./photos/myphoto.jpeg" alt="">
+    </div>
+  </section>
+
+  <!-- EXPERTISE PILLARS -->
+  <section class="section" id="expertise">
+    <div class="container">
+      <p class="eyebrow">01 / expertise</p>
+      <h2 class="sec-title" data-aos="fade-up">Core Expertise</h2>
+      <p class="sec-sub" data-aos="fade-up" data-aos-delay="60">Four domains I've gone deep on — not tools I've dabbled in, but systems I've architected and shipped in production.</p>
+
+      <div class="pillars-grid">
+
+        <div class="pillar-card" id="pillar-data" data-aos="fade-up" data-aos-delay="0">
+          <div class="pillar-hd">
+            <div class="pillar-ico ico-data">⚙️</div>
+            <h3>Big Data &amp; Analytics</h3>
+          </div>
+          <p>Built ETL pipelines handling <strong>700M–900M records/day</strong> at Barclays using PySpark and Impala — cutting processing time 40%. Engineered an intelligent caching system that eliminated 90% of DB calls and improved response time 93%.</p>
+          <div class="tech-row">
+            <span class="tt">PySpark</span><span class="tt">Apache Impala</span><span class="tt">KDB</span>
+            <span class="tt">Hadoop</span><span class="tt">Oracle</span><span class="tt">PostgreSQL</span>
+          </div>
         </div>
 
-        <div class="elem col-lg-6 col-md-12 col-sm-12">
-            <p>Hi, I am Prasad Athave. Currently I work as <b>Senior Software development Engineer</b> at <b>Siemens EDA</b>.  I have completed my <b>B.Tech in Computer Science and Engineering</b> from <b>IIT Gandhinagar</b> in 2022.
-                In my Corporate journey I have worked on problems from Natural Language processing and Back end development. Previously I have worked at ZS Associates.
-                I am a Certified AWS Cloud practitioner and a ceritified Azure Administrator expert.
-                I love music and I am an enthusistic guitar learner and also a student of Indian classical music. 
-            </p>
+        <div class="pillar-card" id="pillar-ai" data-aos="fade-up" data-aos-delay="80">
+          <div class="pillar-hd">
+            <div class="pillar-ico ico-ai">🤖</div>
+            <h3>Agentic AI Systems</h3>
+          </div>
+          <p>At S45, turning <strong>2000+ unstructured legal filings</strong> into structured, compliance-checked capital event timelines. Building an agentic RAG layer for conversational querying across entire document corpora.</p>
+          <div class="tech-row">
+            <span class="tt">Agentic AI</span><span class="tt">RAG</span><span class="tt">Multi-Agent Systems</span>
+            <span class="tt">BERT / BART / T5</span><span class="tt">PyTorch</span><span class="tt">TensorFlow</span>
+          </div>
         </div>
-    
+
+        <div class="pillar-card" id="pillar-cloud" data-aos="fade-up" data-aos-delay="160">
+          <div class="pillar-hd">
+            <div class="pillar-ico ico-cloud">☁️</div>
+            <h3>Cloud &amp; Architecture</h3>
+          </div>
+          <p>At Siemens EDA, <strong>re-architected a stateful server to stateless</strong> for cloud readiness, built gRPC load balancing via a dynamic Nginx wrapper, and created local CI/CD pipelines that improved testing turnaround 50%.</p>
+          <div class="tech-row">
+            <span class="tt">AWS</span><span class="tt">Azure</span><span class="tt">Kubernetes</span>
+            <span class="tt">Docker</span><span class="tt">gRPC / Nginx</span><span class="tt">CI/CD</span>
+          </div>
+        </div>
+
+        <div class="pillar-card" id="pillar-java" data-aos="fade-up" data-aos-delay="240">
+          <div class="pillar-hd">
+            <div class="pillar-ico ico-java">☕</div>
+            <h3>Java &amp; Backend Engineering</h3>
+          </div>
+          <p>3+ years of production Java at Siemens EDA — Spring Boot backends, Java profiling with YourKit, Oracle-to-Postgres migration tooling that cut migration time <strong>80%</strong>, and API performance improvements of up to 60%.</p>
+          <div class="tech-row">
+            <span class="tt">Core Java</span><span class="tt">Spring Boot</span><span class="tt">Spring</span>
+            <span class="tt">PostgreSQL</span><span class="tt">MongoDB</span><span class="tt">REST / gRPC</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section class="section section-alt" id="experience">
+    <div class="container">
+      <p class="eyebrow">02 / experience</p>
+      <h2 class="sec-title" data-aos="fade-up">Experience</h2>
+      <p class="sec-sub" data-aos="fade-up" data-aos-delay="60">A track record across AI-native finance, investment banking, EDA tooling, and NLP.</p>
+
+      <div class="timeline">
+
+        <!-- S45 -->
+        <div class="tl-row" data-aos="fade-up">
+          <div class="tl-aside">
+            <span class="tl-period">Feb 2026 — Present</span>
+            <span class="tl-badge tl-current">● Current</span>
+          </div>
+          <div class="tl-body">
+            <div class="tl-role">AI &amp; Backend Engineer</div>
+            <div class="tl-company">S45 — AI-native Investment Bank, Bangalore</div>
+            <div class="metrics-row">
+              <span class="mc mc-indigo">2000+ legal filings processed</span>
+              <span class="mc mc-indigo">Agentic RAG layer</span>
+              <span class="mc mc-indigo">Compliance automation</span>
+            </div>
+            <ul class="tl-bullets">
+              <li>Designed and shipped a full-stack AI platform converting 2000+ unstructured legal filings into structured, deduplicated capital event timelines with built-in compliance checks and a PDF viewer for instant verification.</li>
+              <li>Building an agentic RAG layer enabling users to conversationally query and validate across entire document corpora — replacing manual review workflows end-to-end.</li>
+            </ul>
+            <div class="tag-row">
+              <span class="xt">Agentic AI</span><span class="xt">RAG</span><span class="xt">Multi-Agent</span>
+              <span class="xt">Python</span><span class="xt">Full-Stack</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Barclays -->
+        <div class="tl-row" data-aos="fade-up">
+          <div class="tl-aside">
+            <span class="tl-period">Mar 2025 — Jan 2026</span>
+          </div>
+          <div class="tl-body">
+            <div class="tl-role">Senior Analyst</div>
+            <div class="tl-company">Barclays Investment Bank, Mumbai</div>
+            <div class="metrics-row">
+              <span class="mc mc-cyan">700M–900M records/day</span>
+              <span class="mc mc-cyan">40% faster ETL</span>
+              <span class="mc mc-cyan">90% ↓ DB calls</span>
+              <span class="mc mc-cyan">93% ↑ response time</span>
+            </div>
+            <ul class="tl-bullets">
+              <li>Built an interactive trade analytics portal (React, Recharts, Python backend) with rich visualisations and dynamic filters across client, exchange, strategy and execution metrics — handling 100M+ trades/day at low response times.</li>
+              <li>Redesigned large-scale ETL workflows (PySpark, Impala, KDB) processing 700M–900M+ daily records, reducing processing time by 40%.</li>
+              <li>Engineered an intelligent caching system eliminating 90% of DB calls and improving response time by 93%.</li>
+              <li>Created an on-demand data quality portal and automated reporting pipelines (Autosys) ensuring faster issue resolution and reliable outputs.</li>
+            </ul>
+            <div class="tag-row">
+              <span class="xt">PySpark</span><span class="xt">Impala</span><span class="xt">KDB</span>
+              <span class="xt">Python</span><span class="xt">React</span><span class="xt">Autosys</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Siemens EDA -->
+        <div class="tl-row" data-aos="fade-up">
+          <div class="tl-aside">
+            <span class="tl-period">Aug 2022 — Feb 2025</span>
+          </div>
+          <div class="tl-body">
+            <div class="tl-role">Senior Software Engineer <- Software Engineer</div>
+            <div class="tl-company">Siemens EDA, Hyderabad</div>
+            <div class="metrics-row">
+              <span class="mc mc-amber">60% faster APIs</span>
+              <span class="mc mc-amber">80% ↓ migration time</span>
+              <span class="mc mc-amber">50% faster CI/CD</span>
+              <span class="mc mc-amber">Stateful → Stateless</span>
+            </div>
+            <ul class="tl-bullets">
+              <li><strong>Architecture:</strong> Re-architected a stateful server to a stateless model for cloud readiness; built a dynamic Nginx wrapper for gRPC load balancing; updated the web testing framework for cloud deployment.</li>
+              <li><strong>Reliability:</strong> Developed the application's recovery framework to prevent data loss; introduced Java profiling (YourKit) to monitor performance behaviour and identify hot spots.</li>
+              <li><strong>Performance:</strong> Identified and resolved critical performance defects, improving API response times by up to 60%.</li>
+              <li><strong>Cloud &amp; DevOps:</strong> Core Java, Docker, Kubernetes, AWS AppStream, EC2, CloudWatch; built a local CI/CD pipeline improving testing turnaround by 50%.</li>
+              <li><strong>Data Migration:</strong> Designed Oracle-to-Postgres migration tooling, reducing schema migration process time by 80%.</li>
+            </ul>
+            <div class="tag-row">
+              <span class="xt">Core Java</span><span class="xt">Spring Boot</span><span class="xt">Docker</span>
+              <span class="xt">Kubernetes</span><span class="xt">AWS</span><span class="xt">gRPC</span>
+              <span class="xt">Oracle → Postgres</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- ZS -->
+        <div class="tl-row" data-aos="fade-up">
+          <div class="tl-aside">
+            <span class="tl-period">Jan 2022 — Jul 2022</span>
+            <span class="tl-badge">Internship</span>
+          </div>
+          <div class="tl-body">
+            <div class="tl-role">Business Technology Solution Associate</div>
+            <div class="tl-company">ZS Associates, Pune</div>
+            <ul class="tl-bullets">
+              <li>Built sentiment analysis, keyphrase extraction, and text summarisation pipelines using BART, BERT, and T5 — including domain-specific fine-tuning.</li>
+              <li>Implemented transformer-based NER pipelines for structured data extraction from documents with high accuracy.</li>
+              <li>Applied few-shot and zero-shot learning for classification in low-labeled-data scenarios.</li>
+            </ul>
+            <div class="tag-row">
+              <span class="xt">BERT</span><span class="xt">BART</span><span class="xt">T5</span>
+              <span class="xt">NLP</span><span class="xt">Few-shot Learning</span><span class="xt">Transformers</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section class="section" id="skills">
+    <div class="container">
+      <p class="eyebrow">03 / skills</p>
+      <h2 class="sec-title" data-aos="fade-up">Technical Skills</h2>
+      <p class="sec-sub" data-aos="fade-up" data-aos-delay="60">Organised by domain. Bold = primary strengths.</p>
+
+      <div class="skills-table" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="sk-row">
+          <div class="sk-label"><span class="sk-dot dot-cyan"></span>Big Data &amp; Storage</div>
+          <div class="sk-pills">
+            <span class="pill pill-strong">PySpark</span>
+            <span class="pill pill-strong">Apache Impala</span>
+            <span class="pill pill-strong">KDB</span>
+            <span class="pill">Hadoop</span>
+            <span class="pill">Oracle</span>
+            <span class="pill">PostgreSQL</span>
+            <span class="pill">MongoDB</span>
+            <span class="pill">Apache Kafka</span>
+          </div>
+        </div>
+
+        <div class="sk-row">
+          <div class="sk-label"><span class="sk-dot dot-indigo"></span>AI &amp; Machine Learning</div>
+          <div class="sk-pills">
+            <span class="pill pill-strong">Agentic AI</span>
+            <span class="pill pill-strong">RAG Systems</span>
+            <span class="pill pill-strong">Multi-Agent Systems</span>
+            <span class="pill">TensorFlow</span>
+            <span class="pill">PyTorch</span>
+            <span class="pill">BERT / BART / T5</span>
+            <span class="pill">NLP</span>
+            <span class="pill">Few-shot Learning</span>
+          </div>
+        </div>
+
+        <div class="sk-row">
+          <div class="sk-label"><span class="sk-dot dot-amber"></span>Cloud &amp; Infrastructure</div>
+          <div class="sk-pills">
+            <span class="pill pill-cert">AWS <span class="cert-badge">✓ Certified</span></span>
+            <span class="pill pill-cert">Azure <span class="cert-badge">✓ Admin</span></span>
+            <span class="pill pill-strong">Kubernetes</span>
+            <span class="pill pill-strong">Docker</span>
+            <span class="pill">CloudWatch</span>
+            <span class="pill">CI/CD</span>
+            <span class="pill">gRPC / Nginx</span>
+            <span class="pill">Gradle</span>
+          </div>
+        </div>
+
+        <div class="sk-row">
+          <div class="sk-label"><span class="sk-dot dot-emerald"></span>Languages</div>
+          <div class="sk-pills">
+            <span class="pill pill-strong">Java</span>
+            <span class="pill pill-strong">Python</span>
+            <span class="pill">C++</span>
+            <span class="pill">Go</span>
+            <span class="pill">SQL</span>
+            <span class="pill">HTML / CSS / JS</span>
+            <span class="pill">React</span>
+          </div>
+        </div>
+
+        <div class="sk-row">
+          <div class="sk-label"><span class="sk-dot dot-purple"></span>Backend Frameworks</div>
+          <div class="sk-pills">
+            <span class="pill pill-strong">Spring Boot</span>
+            <span class="pill pill-strong">Spring Framework</span>
+            <span class="pill">Autosys</span>
+            <span class="pill">YourKit Profiling</span>
+            <span class="pill">AWS AppStream / EC2</span>
+          </div>
+        </div>
+
+        <div class="sk-row">
+          <div class="sk-label"><span class="sk-dot dot-rose"></span>Systems &amp; Low-Level</div>
+          <div class="sk-pills">
+            <span class="pill">Concurrent Programming</span>
+            <span class="pill">VHDL / FPGA</span>
+            <span class="pill">x86 Assembly</span>
+            <span class="pill">Lex / Bison</span>
+            <span class="pill">Compiler Design</span>
+            <span class="pill">OS Internals</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="section section-alt" id="projects">
+    <div class="container">
+      <p class="eyebrow">04 / projects</p>
+      <h2 class="sec-title" data-aos="fade-up">Selected Projects</h2>
+
+      <div class="proj-list" data-aos="fade-up" data-aos-delay="80">
+
+        <a href="https://github.com/SoniSiddharth/Mini-Twitter" target="_blank" class="proj-row">
+          <div class="proj-num">01</div>
+          <div class="proj-info">
+            <div class="proj-name">Mini Twitter</div>
+            <div class="proj-lang">Python · MySQL</div>
+          </div>
+          <div class="proj-desc">Full social platform from scratch — multi-threaded TCP server, real-time feed, user auth, MySQL persistence. No framework. Raw sockets.</div>
+          <div class="proj-tags"><span class="xt">Socket Programming</span><span class="xt">Multithreading</span><span class="xt">Backend</span></div>
+          <i class="fa-brands fa-github proj-icon"></i>
+        </a>
+
+        <a href="https://github.com/prasadathave/PythonC-Compiler" target="_blank" class="proj-row">
+          <div class="proj-num">02</div>
+          <div class="proj-info">
+            <div class="proj-name">Python → C Compiler</div>
+            <div class="proj-lang">C · Yacc · Lex</div>
+          </div>
+          <div class="proj-desc">Full pipeline: lexer, Lex/Bison parser, AST, semantic analysis, x86 assembly output. Supports loops, functions, arrays.</div>
+          <div class="proj-tags"><span class="xt">Compilers</span><span class="xt">AST</span><span class="xt">Assembly</span></div>
+          <i class="fa-brands fa-github proj-icon"></i>
+        </a>
+
+        <a href="https://github.com/pmujumdar27/go-concurrent-ft" target="_blank" class="proj-row">
+          <div class="proj-num">03</div>
+          <div class="proj-info">
+            <div class="proj-name">Distributed File Transfer — Go</div>
+            <div class="proj-lang">Go</div>
+          </div>
+          <div class="proj-desc">Concurrent peer-to-peer file transfer in Go — goroutine-based parallelism, chunked streaming, and fault-tolerant transfer over TCP.</div>
+          <div class="proj-tags"><span class="xt">Go</span><span class="xt">Concurrency</span><span class="xt">Distributed</span></div>
+          <i class="fa-brands fa-github proj-icon"></i>
+        </a>
+
+        <a href="https://github.com/madraven05/nlp-robot-navigation" target="_blank" class="proj-row">
+          <div class="proj-num">04</div>
+          <div class="proj-info">
+            <div class="proj-name">NLP Robot Navigation</div>
+            <div class="proj-lang">Python</div>
+          </div>
+          <div class="proj-desc">Natural language to robot motion — seq2seq models parsing commands into stepwise motion primitives.</div>
+          <div class="proj-tags"><span class="xt">NLP</span><span class="xt">Seq2Seq</span><span class="xt">ML</span></div>
+          <i class="fa-brands fa-github proj-icon"></i>
+        </a>
 
       </div>
 
+      <div class="proj-cta" data-aos="fade-up">
+        <a href="https://github.com/prasadathave" target="_blank" class="btn btn-ghost">
+          <i class="fa-brands fa-github"></i>&nbsp; All 24 repos on GitHub
+        </a>
+      </div>
+    </div>
+  </section>
 
+  <!-- BEYOND CODE -->
+  <section class="section" id="talks">
+    <div class="container">
+      <p class="eyebrow">05 / beyond code</p>
+      <h2 class="sec-title" data-aos="fade-up">Beyond Code</h2>
 
+      <div class="beyond-grid">
+
+        <div class="beyond-video glass" data-aos="fade-right">
+          <div class="talk-badge"><i class="fa-solid fa-microphone"></i>&nbsp;Featured Talk</div>
+          <a href="https://www.youtube.com/watch?v=FOHtnmEdEg4" target="_blank" class="yt-thumb-link">
+            <div class="yt-thumb-wrap">
+              <img src="https://img.youtube.com/vi/FOHtnmEdEg4/hqdefault.jpg"
+                   alt="JEE Preparation Strategy Talk"
+                   onerror="this.onerror=null;this.style.display='none';this.parentElement.classList.add('yt-no-thumb')">
+              <div class="yt-play-btn">
+                <i class="fa-brands fa-youtube"></i>
+                <span>Watch on YouTube</span>
+              </div>
+            </div>
+          </a>
+          <div class="talk-body">
+            <div class="talk-title">JEE Preparation Strategy</div>
+            <p class="talk-desc">Mentoring aspirants through the JEE journey — strategy, mindset, and the path from AIR 1383 to IIT.</p>
+            <a href="https://www.youtube.com/watch?v=FOHtnmEdEg4" target="_blank" class="btn btn-ghost btn-sm">
+              <i class="fa-brands fa-youtube"></i>&nbsp;Watch
+            </a>
+          </div>
+        </div>
+
+        <div class="beyond-cards">
+          <div class="ig-card glass" data-aos="fade-left">
+            <div class="ig-top">
+              <div class="ig-ring"><div class="ig-av"><i class="fa-brands fa-instagram"></i></div></div>
+              <div class="ig-meta">
+                <div class="ig-handle">@prasadjamms</div>
+                <div class="ig-sub">Guitar · Music · Life</div>
+              </div>
+              <a href="https://www.instagram.com/prasadjamms/" target="_blank" class="ig-btn">Follow</a>
+            </div>
+            <p class="ig-bio">🎸 Engineer by day, guitarist by night. Jams, riffs &amp; everything in between.</p>
+            <a href="https://www.instagram.com/prasadjamms/" target="_blank" class="ig-cta">
+              <i class="fa-brands fa-instagram"></i>&nbsp;See my feed →
+            </a>
+          </div>
+
+          <div class="hcard glass" data-aos="fade-left" data-aos-delay="80">
+            <span class="hcard-icon">🎸</span>
+            <div><div class="hcard-title">Guitar &amp; Music</div><div class="hcard-sub">Blues, rock, and everything that makes the strings sing</div></div>
+          </div>
+          <div class="hcard glass" data-aos="fade-left" data-aos-delay="140">
+            <span class="hcard-icon">📐</span>
+            <div><div class="hcard-title">JEE Mentoring</div><div class="hcard-sub">Helping aspirants navigate the path to IITs · AIR 1383 JEE Advanced</div></div>
+          </div>
+          <div class="hcard glass" data-aos="fade-left" data-aos-delay="200">
+            <span class="hcard-icon">☁️</span>
+            <div><div class="hcard-title">Continuous Learning</div><div class="hcard-sub">AWS &amp; Azure certified. Always building, always shipping.</div></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section section-alt" id="contact">
+    <div class="container contact-wrap">
+      <p class="eyebrow" style="text-align:center">06 / contact</p>
+      <h2 class="sec-title" style="text-align:center" data-aos="fade-up">Let's Connect</h2>
+      <p class="sec-sub" style="text-align:center;margin-left:auto;margin-right:auto" data-aos="fade-up" data-aos-delay="60">
+        Open to conversations about AI systems, data engineering, backend architecture — or a good guitar recommendation.
+      </p>
+
+      <div class="contact-row" data-aos="fade-up" data-aos-delay="120">
+        <a href="https://www.linkedin.com/in/prasad-athave-445a0516b/" target="_blank" class="citem">
+          <i class="fa-brands fa-linkedin ci-icon ci-linkedin"></i>
+          <span class="ci-name">LinkedIn</span>
+          <span class="ci-handle">prasad-athave</span>
+        </a>
+        <div class="cdiv"></div>
+        <a href="https://github.com/prasadathave" target="_blank" class="citem">
+          <i class="fa-brands fa-github ci-icon ci-github"></i>
+          <span class="ci-name">GitHub</span>
+          <span class="ci-handle">prasadathave</span>
+        </a>
+        <div class="cdiv"></div>
+        <a href="mailto:pdathave@gmail.com" class="citem">
+          <i class="fa-solid fa-envelope ci-icon ci-email"></i>
+          <span class="ci-name">Email</span>
+          <span class="ci-handle">pdathave@gmail.com</span>
+        </a>
+        <div class="cdiv"></div>
+        <a href="https://www.instagram.com/prasadjamms/" target="_blank" class="citem">
+          <i class="fa-brands fa-instagram ci-icon ci-ig"></i>
+          <span class="ci-name">Instagram</span>
+          <span class="ci-handle">@prasadjamms</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <span class="footer-logo gradient-text">PA.</span>
+      <p class="footer-tag">IIT Gandhinagar · S45 · Ex-Barclays · Ex-Siemens EDA</p>
+      <p class="footer-copy">© 2025 · Built with code &amp; curiosity</p>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+  <script src="js/main.js"></script>
 </body>
-
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
-
 </html>
