@@ -735,6 +735,7 @@ strong { color: var(--white); font-weight: 600; }
 .citem:hover .ci-github   { color: var(--white); }
 .citem:hover .ci-email    { color: var(--indigo); }
 .citem:hover .ci-ig       { color: #e1306c; }
+.citem:hover .ci-x        { color: var(--white); }
 .ci-name   { font-family: var(--fd); font-size: 0.8rem; font-weight: 700; color: var(--white); }
 .ci-handle { font-family: var(--fm); font-size: 0.67rem; color: var(--dim); }
 
