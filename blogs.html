@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blogs — Prasad Athave | Senior Associate at Morgan Stanley</title>
+  <meta name="description" content="Technical deep dives, articles, and insights on big data engineering, agentic AI architectures, scalable cloud infrastructure, and backend systems by Prasad Athave.">
+  
+  <!-- SEO Keywords -->
+  <meta name="keywords" content="Prasad Athave, Prasad Athave Blog, Prasad Athave Morgan Stanley, AI Engineer, Systems Architect, Big Data, PySpark, Agentic AI, RAG, Java Spring Boot, IIT Gandhinagar">
+  <meta name="robots" content="index, follow">
+  
+  <!-- OpenGraph Metadata -->
+  <meta property="og:title" content="Blogs — Prasad Athave | Senior Associate at Morgan Stanley">
+  <meta property="og:description" content="Technical articles and insights on big data engineering, agentic AI, cloud infrastructure, and high-performance backend systems by Prasad Athave.">
+  <meta property="og:type" content="blog">
+  <meta property="og:url" content="https://prasadathave.github.io/blogs.html">
+  <meta property="og:image" content="https://prasadathave.github.io/photos/myphoto.png">
+  
+  <!-- Twitter Card Metadata -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Blogs — Prasad Athave | Senior Associate at Morgan Stanley">
+  <meta name="twitter:description" content="Technical articles and insights on big data engineering, agentic AI, cloud infrastructure, and high-performance backend systems by Prasad Athave.">
+  <meta name="twitter:image" content="https://prasadathave.github.io/photos/myphoto.png">
+
+  <!-- Typography & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=IBM+Plex+Mono:wght@300;400;500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <style>
+    /* Custom style block for Blogs page-specific premium layouts */
+    .blogs-hero {
+      padding-top: 140px;
+      padding-bottom: 60px;
+      position: relative;
+      overflow: hidden;
+      text-align: center;
+    }
+    
+    .blogs-hero-bg {
+      position: absolute;
+      border-radius: 50%;
+      pointer-events: none;
+      filter: blur(100px);
+      z-index: 1;
+    }
+    
+    .blog-orb {
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(129,140,248,0.08), transparent 70%);
+      top: -100px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+
+    .blogs-hero-container {
+      position: relative;
+      z-index: 2;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .blogs-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      margin-top: 2rem;
+      margin-bottom: 6rem;
+    }
+
+    .blog-card {
+      padding: 2.2rem;
+      border-radius: var(--r);
+      transition: all 0.35s var(--ease);
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      gap: 1.2rem;
+      cursor: default;
+    }
+
+    .blog-card::before {
+      content: '';
+      position: absolute;
+      inset: -1px;
+      border-radius: calc(var(--r) + 1px);
+      background: linear-gradient(135deg, transparent 40%, rgba(129,140,248,0.15) 70%, rgba(34,211,238,0.2) 100%);
+      z-index: -1;
+      opacity: 0.5;
+      transition: opacity 0.35s var(--ease);
+    }
+
+    .blog-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(129,140,248,0.25);
+      background: rgba(255, 255, 255, 0.04);
+      box-shadow: 0 10px 30px -10px rgba(9, 9, 15, 0.7), 0 0 20px -2px rgba(129,140,248,0.08);
+    }
+
+    .blog-card:hover::before {
+      opacity: 1;
+    }
+
+    .blog-badge {
+      align-self: flex-start;
+      font-family: var(--fm);
+      font-size: 0.68rem;
+      font-weight: 500;
+      color: var(--cyan);
+      background: rgba(34,211,238,0.08);
+      border: 1px solid rgba(34,211,238,0.2);
+      padding: 0.25rem 0.75rem;
+      border-radius: 50px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .badge-ai {
+      color: var(--indigo);
+      background: rgba(129,140,248,0.08);
+      border-color: rgba(129,140,248,0.2);
+    }
+
+    .badge-cloud {
+      color: var(--amber);
+      background: rgba(251,191,36,0.08);
+      border-color: rgba(251,191,36,0.2);
+    }
+
+    .blog-card h3 {
+      font-family: var(--fd);
+      font-size: clamp(1.25rem, 2.5vw, 1.6rem);
+      font-weight: 700;
+      color: var(--white);
+      line-height: 1.3;
+      transition: color var(--t);
+    }
+
+    .blog-card p {
+      font-size: 0.95rem;
+      color: var(--muted);
+      line-height: 1.75;
+    }
+
+    .blog-meta {
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
+      font-family: var(--fm);
+      font-size: 0.75rem;
+      color: var(--dim);
+      border-top: 1px solid var(--bd);
+      padding-top: 1.2rem;
+      flex-wrap: wrap;
+    }
+
+    .blog-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .blog-meta-item i {
+      color: var(--indigo);
+    }
+
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      color: var(--amber);
+      font-weight: 500;
+    }
+
+    .status-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background-color: var(--amber);
+      animation: pulseAlert 2s infinite ease-in-out;
+    }
+
+    @keyframes pulseAlert {
+      0%, 100% { transform: scale(1); opacity: 0.6; }
+      50% { transform: scale(1.4); opacity: 1; }
+    }
+
+    .empty-state {
+      padding: 3.5rem 2rem;
+      border: 1px dashed var(--bd);
+      border-radius: var(--r);
+      background: rgba(255,255,255,0.01);
+      text-align: center;
+      margin-top: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .empty-state i {
+      font-size: 2.2rem;
+      color: var(--dim);
+      margin-bottom: 0.5rem;
+    }
+
+    .empty-state h4 {
+      font-family: var(--fd);
+      font-size: 1.15rem;
+      color: var(--white);
+    }
+
+    .empty-state p {
+      font-size: 0.88rem;
+      color: var(--dim);
+      max-width: 420px;
+      line-height: 1.6;
+    }
+  </style>
+
+  <!-- Structured Data JSON-LD for Google Search SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": "Prasad Athave's Technical Blog",
+    "url": "https://prasadathave.github.io/blogs.html",
+    "description": "Technical insights on big data engineering, PySpark, agentic AI systems, RAG, and cloud backend architecture by Prasad Athave, Senior Associate at Morgan Stanley.",
+    "publisher": {
+      "@type": "Person",
+      "name": "Prasad Athave",
+      "jobTitle": "Senior Associate",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Morgan Stanley"
+      }
+    },
+    "blogPost": [
+      {
+        "@type": "BlogPosting",
+        "headline": "Why Smart Engineering Still Matters in the Age of Agents (And How It Builds a Cost and Accuracy Moat)",
+        "description": "Why multi-agent workflows often lead to loops, latency, and high bills—and how treating LLMs as strictly bounded functions yields cost-effective, deterministic AI systems.",
+        "datePublished": "2026-06-01",
+        "author": {
+          "@type": "Person",
+          "name": "Prasad Athave"
+        },
+        "url": "https://prasadathave.github.io/blogs-why-smart-engineering-matters.html"
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Building Agentic RAG Pipelines for Financial Compliance and Capital Event Mining",
+        "description": "An upcoming deep dive into parsing unstructured regulatory filings and building stateful multi-agent compliance systems.",
+        "author": {
+          "@type": "Person",
+          "name": "Prasad Athave"
+        }
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Scaling PySpark Pipelines to 900M Daily Records: Lessons in Query Tuning",
+        "description": "Analyzing PySpark partitioning, join optimizations, and memory management for large ETL pipelines.",
+        "author": {
+          "@type": "Person",
+          "name": "Prasad Athave"
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav scrolled" id="nav">
+    <div class="nav-container">
+      <a href="index.html#hero" class="nav-logo">PA<span class="accent">.</span></a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="index.html#expertise" class="nav-link">Expertise</a></li>
+        <li><a href="index.html#experience" class="nav-link">Experience</a></li>
+        <li><a href="index.html#skills" class="nav-link">Skills</a></li>
+        <li><a href="index.html#projects" class="nav-link">Projects</a></li>
+        <li><a href="index.html#talks" class="nav-link">Beyond Code</a></li>
+        <li><a href="blogs.html" class="nav-link active">Blogs</a></li>
+        <li><a href="index.html#contact" class="nav-link">Contact</a></li>
+      </ul>
+      <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- BLOG HERO -->
+  <header class="blogs-hero">
+    <div class="blogs-hero-bg blog-orb"></div>
+    <div class="container blogs-hero-container">
+      <p class="eyebrow" data-aos="fade-down">Writing &amp; Insights</p>
+      <h1 class="sec-title gradient-text" data-aos="fade-up" data-aos-delay="60">Engineering Thoughts</h1>
+      <p class="sec-sub" style="margin: 0 auto 2rem;" data-aos="fade-up" data-aos-delay="120">
+        Articles on large-scale data systems, agentic AI pipelines, cloud infrastructure, and backend software engineering. Under active development.
+      </p>
+      <div data-aos="fade-up" data-aos-delay="180">
+        <a href="index.html#hero" class="btn btn-ghost">
+          <i class="fa-solid fa-arrow-left"></i>&nbsp; Back to Profile
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- BLOGS MAIN LISTING -->
+  <main class="container" style="max-width: 840px;">
+    <div class="blogs-grid">
+
+      <!-- Published Blog Post 1 -->
+      <a href="blogs-why-smart-engineering-matters.html" class="blog-card glass" data-aos="fade-up" style="text-decoration: none;">
+        <span class="blog-badge badge-ai">AI &amp; Systems Architecture</span>
+        <h3>Why Smart Engineering Still Matters in the Age of Agents <span style="font-weight:normal; color:var(--dim); font-size:0.9em; display:block; margin-top:0.2rem;">(And How It Builds a Cost and Accuracy Moat)</span></h3>
+        <p>
+          Right now, the AI world is obsessed with "multi-agent workflows." Here is why autonomous agents debating each other often leads to infinite loops, unpredictable latency, and massive API bills—and how treating LLMs as strictly bounded functions yields cost-effective, deterministic systems.
+        </p>
+        <div class="blog-meta">
+          <span class="blog-meta-item status-pill" style="color: var(--emerald);">
+            <span class="status-dot" style="background-color: var(--emerald); animation: none;"></span>
+            Published · 01 Jun 2026
+          </span>
+          <span class="blog-meta-item">
+            <i class="fa-solid fa-clock"></i>
+            7 min read
+          </span>
+          <span class="blog-meta-item">
+            <i class="fa-solid fa-user"></i>
+            Prasad Athave
+          </span>
+        </div>
+      </a>
+
+      <!-- Upcoming Blog 1 -->
+      <article class="blog-card glass" data-aos="fade-up" data-aos-delay="60">
+        <span class="blog-badge badge-ai">Agentic AI &amp; NLP</span>
+        <h3>Building Agentic RAG Pipelines for Financial Compliance and Capital Event Mining</h3>
+        <p>
+          Regulatory and compliance analysis requires extracting precise capital event timelines from unstructured corporate filings. This upcoming post will detail how to construct a stateful multi-agent orchestrator using PyTorch, implement a high-recall agentic RAG layer, and design manual verification overlays for compliance automation.
+        </p>
+        <div class="blog-meta">
+          <span class="blog-meta-item status-pill">
+            <span class="status-dot"></span>
+            Writing in progress...
+          </span>
+          <span class="blog-meta-item">
+            <i class="fa-solid fa-clock"></i>
+            7 min read
+          </span>
+          <span class="blog-meta-item">
+            <i class="fa-solid fa-user"></i>
+            Prasad Athave
+          </span>
+        </div>
+      </article>
+
+      <!-- Upcoming Blog 2 -->
+      <article class="blog-card glass" data-aos="fade-up" data-aos-delay="120">
+        <span class="blog-badge">Data Engineering &amp; Scale</span>
+        <h3>Scaling PySpark Pipelines to 900M Daily Records: Caching &amp; Query Optimization</h3>
+        <p>
+          Processing nearly a billion records a day demands deep query plan inspection and performance tuning. Here, we investigate our Barclay's design choices: eliminating costly PySpark shuffles, tuning Apache Impala join strategies, building an intelligent low-latency caching system, and lowering DB calls by 90% in large-scale ETL pipelines.
+        </p>
+        <div class="blog-meta">
+          <span class="blog-meta-item status-pill">
+            <span class="status-dot"></span>
+            Outline drafted
+          </span>
+          <span class="blog-meta-item">
+            <i class="fa-solid fa-clock"></i>
+            5 min read
+          </span>
+          <span class="blog-meta-item">
+            <i class="fa-solid fa-user"></i>
+            Prasad Athave
+          </span>
+        </div>
+      </article>
+
+      <!-- Upcoming Blog 3 -->
+      <article class="blog-card glass" data-aos="fade-up" data-aos-delay="180">
+        <span class="blog-badge badge-cloud">Cloud Architecture</span>
+        <h3>Re-Architecting Stateful to Stateless: Containerized gRPC &amp; Dynamic Load Balancing</h3>
+        <p>
+          How we re-engineered stateful application servers at Siemens EDA into containerized, cloud-ready stateless microservices. Covers Docker/K8s environments, AWS EC2/AppStream integration, and creating a dynamic Nginx wrapper to manage high-throughput gRPC routing safely.
+        </p>
+        <div class="blog-meta">
+          <span class="blog-meta-item status-pill">
+            <span class="status-dot"></span>
+            Researching
+          </span>
+          <span class="blog-meta-item">
+            <i class="fa-solid fa-clock"></i>
+            6 min read
+          </span>
+          <span class="blog-meta-item">
+            <i class="fa-solid fa-user"></i>
+            Prasad Athave
+          </span>
+        </div>
+      </article>
+
+      <!-- Empty state placeholder for self hosting copy-paste -->
+      <section class="empty-state" data-aos="fade-up" data-aos-delay="240">
+        <i class="fa-regular fa-file-code"></i>
+        <h4>Hosting Custom Blogs Locally</h4>
+        <p>
+          This page is pre-structured for self-hosting. To add your own complete blog articles later, simply copy this HTML template, paste your custom content in the spotlight card, and host it right here on your GitHub pages.
+        </p>
+      </section>
+
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <a href="index.html#hero" class="footer-logo gradient-text">PA.</a>
+      <p class="footer-tag">IIT Gandhinagar · Morgan Stanley · Ex-S45 · Ex-Barclays · Ex-Siemens EDA</p>
+      <p class="footer-copy">© 2026 · Built with code &amp; curiosity</p>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // 1. AOS Animations
+      if (typeof AOS !== 'undefined') {
+        AOS.init({ duration: 650, easing: 'ease-out-cubic', once: true, offset: 50 });
+      }
+
+      // 2. Mobile Hamburger menu
+      const burger = document.getElementById('hamburger');
+      const links  = document.getElementById('nav-links');
+      
+      burger?.addEventListener('click', () => {
+        burger.classList.toggle('open');
+        links.classList.toggle('open');
+      });
+
+      links?.querySelectorAll('.nav-link').forEach(l => l.addEventListener('click', () => {
+        burger.classList.remove('open');
+        links.classList.remove('open');
+      }));
+
+      document.addEventListener('click', e => {
+        if (links && links.classList.contains('open') && !nav.contains(e.target)) {
+          burger.classList.remove('open');
+          links.classList.remove('open');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
